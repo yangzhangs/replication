@@ -10,7 +10,7 @@ P8,https://stackoverflow.com/questions/39278756,Cache `go get` in docker build,<
 P9,https://stackoverflow.com/questions/66193016,How to pass jenkins credentials into docker build command?,<docker><jenkins><jenkins-pipeline><devops><credentials>,1,2021/2/14
 P10,https://stackoverflow.com/questions/59139453,Repository is not signed in docker build,<docker><ubuntu><apt>,206,2019/12/2
 P11,https://stackoverflow.com/questions/59288142,Docker: COPY can't find files in local directory where the `docker build` runs,<docker>,3,2019/12/11
-P12,https://stackoverflow.com/questions/47074457,How to Specify $docker build --network="host" mode in docker-compose at the time of build,<docker><docker-compose><dockerfile><docker-build>,40,2017/11/2
+P12,https://stackoverflow.com/questions/47074457,How to Specify $docker build --network=''host'' mode in docker-compose at the time of build,<docker><docker-compose><dockerfile><docker-build>,40,2017/11/2
 P13,https://stackoverflow.com/questions/44708481,How to install local packages using pip as part of a docker build?,<python><docker><pip>,50,2017/6/22
 P14,https://stackoverflow.com/questions/44907444,Error 137 on docker build command on Win7,<docker><docker-build>,3,2017/7/4
 P15,https://stackoverflow.com/questions/39100587,docker build --no-cache=true still builds with cache?,<caching><docker>,2,2016/8/23
