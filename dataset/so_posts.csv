@@ -24,7 +24,7 @@ P22,https://stackoverflow.com/questions/47095410,Access ssh keys during docker-c
 P23,https://stackoverflow.com/questions/69806659,"Multi-stage docker build, prevent concurency for specific stage",<docker><docker-multi-stage-build><buildx>,1,2021/11/2
 P24,https://stackoverflow.com/questions/44705455,After docker-compose build the docker-compose up run old not updated containers,<docker><deployment><docker-compose>,3,2017/6/22
 P25,https://stackoverflow.com/questions/58779131,"Why aren't my docker images, built by ""docker-compose build"", using the correct version of my code?",<docker><docker-compose>,1,2019/11/9
-P26,https://stackoverflow.com/questions/69585684,running dpkg command in docker build in jenkins pipeline throws "cannot access archive: No such file or directory",<docker><jenkins-pipeline>,3,2021/10/15
+P26,https://stackoverflow.com/questions/69585684,running dpkg command in docker build in jenkins pipeline throws ''cannot access archive: No such file or directory'',<docker><jenkins-pipeline>,3,2021/10/15
 P27,https://stackoverflow.com/questions/58488535,What's the purpose of "docker build --pull"?,<docker>,111,2019/10/21
 P28,https://stackoverflow.com/questions/69788651,Github private packages are not installing in docker build,<node.js><typescript><docker>,2,2021/10/31
 P29,https://stackoverflow.com/questions/39589006,windows "C:/Users/<username>/" directories not visible during `docker build` command,<linux><windows><docker>,1,2016/9/20
