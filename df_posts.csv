@@ -1,0 +1,10 @@
+﻿id,url,title,creationdate
+P431,https://forums.docker.com/t/docker-build-cannot-find-the-dockerfile-beta/11525,Docker Build cannot find the DockerFile [BETA],2016/5/9 5:17
+P432,https://forums.docker.com/t/sudo-docker-build-t-nisevi-static-web/750,Sudo docker build -t=“nisevi/static_web”,2015/2/3 20:58
+P433,https://forums.docker.com/t/docker-compose-build-problem/43913,Docker-compose build problem,2018/1/6 5:36
+P434,https://forums.docker.com/t/resolved-automated-docker-build-fails/22831,[RESOLVED] Automated docker build fails,2016/10/1 21:04
+P435,https://forums.docker.com/t/docker-build-ignoring-dockerignore/11991,Docker build ignoring .dockerignore,2016/5/12 11:53
+P436,https://forums.docker.com/t/extremely-slow-parallel-docker-builds/38587,Extremely slow parallel docker builds,2017/9/22 17:11
+P437,https://forums.docker.com/t/docker-build-run-exec-all-of-a-sudden-giving-8-system-error-no-such-file-or-directory/3980,Docker build/run/exec all of a sudden giving “[8] System error: no such file or directory”,2015/10/22 18:35
+P438,https://forums.docker.com/t/docker-build-failing-on-docker-hub/76191,Docker build failing on Docker hub,2019/6/11 9:32
+P439,https://forums.docker.com/t/docker-build-cannot-mount-volume-over-existing-file/86915,Docker build: cannot mount volume over existing file,2020/1/9 16:56
