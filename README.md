@@ -4,7 +4,7 @@ Artifact package for our paper. This repository includes our data and results.
 
 ## Data
 1. Data collection (<2024.01.01): 329 issues and 439 posts
-  * GitHub data: [`dataset/gh_issues.xls`](dataset/gh_issues.xls)
+  * GitHub data: [`dataset/gh_issues.csv`](dataset/gh_issues.csv)
     - 329 issues   
   * Stack Overflow data: `dataset/so_posts.xls`
     - 430 posts 
