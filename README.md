@@ -6,13 +6,18 @@ Artifact package for our paper. This repository includes our data and results.
 1. Data collection (<2024.01.01): 329 issues and 439 posts
   * GitHub data: [`dataset/gh_issues.csv`](dataset/gh_issues.csv)
     - 329 issues   
-  * Stack Overflow data: `dataset/so_posts.xls`
+  * Stack Overflow data: [`dataset/so_posts.csv`](dataset/so_posts.csv)
     - 430 posts 
-  * Docker Forum data: `dataset/df_posts.xls`
+  * Docker Forum data: [`dataset/df_posts.csv`](dataset/df_posts.csv)
     - 9 posts 
 2. Results:
-  * `results/rq1_results.xls`: classification results for RQ1
-  * `results/rq2_results.xls`: classification results for RQ2
-  * `results/rq3_results.xls`: classification results for RQ3
-  * `results/rq4_results.xls`: classification results for RQ4
-  * `results/extra_results.xls`: classification results for representativeness analysis  
+  * [`results/rq1_results.csv`](results/rq1_results.csv): classification results for RQ1
+    - 124 posts
+  * [`results/rq2_results.csv`](results/rq2_results.csv): classification results for RQ2
+    - 474 DBFs
+  * [`results/rq3_results.csv`](results/rq3_results.csv): classification results for RQ3
+    - 474 DBFs
+  * [`results/rq4_results.csv`](resykts/rq4_results.csv): classification results for RQ4
+    - 420 DBFs
+  * [`results/extra_results.csv`](results/extra_reults.csv): classification results for the representativeness analysis
+    - 52 DBFs
