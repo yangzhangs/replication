@@ -11,7 +11,7 @@ Artifact package for our paper. This repository includes our data and results.
   * Docker Forum data, i.e., posts; `dataset/df_posts.xls`
     - 9 posts 
 2. Results:
-	* `results/rq1_results.xls`: classification results for RQ1
+  * `results/rq1_results.xls`: classification results for RQ1
   * `results/rq2_results.xls`: classification results for RQ2
   * `results/rq3_results.xls`: classification results for RQ3
   * `results/rq4_results.xls`: classification results for RQ4
