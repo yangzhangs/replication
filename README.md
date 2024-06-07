@@ -8,7 +8,7 @@ Artifact package for our paper. This repository includes our data and results.
     - 329 issues   
 	* Stack Overflow data, i.e., posts; `dataset/so_posts.xls`
     - 430 posts 
-  * Docker Forum data, i.e., posts; `df_posts.xls`
+  * Docker Forum data, i.e., posts; `dataset/df_posts.xls`
     - 9 posts 
 2. Results:
 	* `results/rq1_results.xls`: classification results for RQ1
