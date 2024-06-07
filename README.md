@@ -17,7 +17,7 @@ Artifact package for our paper. This repository includes our data and results.
     - 474 DBFs
   * [`results/rq3_results.csv`](results/rq3_results.csv): classification results for RQ3
     - 474 DBFs
-  * [`results/rq4_results.csv`](resykts/rq4_results.csv): classification results for RQ4
+  * [`results/rq4_results.csv`](results/rq4_results.csv): classification results for RQ4
     - 420 DBFs
   * [`results/extra_results.csv`](results/extra_results.csv): classification results for the representativeness analysis
     - 52 DBFs
