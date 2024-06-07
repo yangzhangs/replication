@@ -1,0 +1,330 @@
+﻿id,repo_name,url,title,labels,state,comments,created_at,state_reason
+I1,hashicorp/packer,https://api.github.com/repos/hashicorp/packer/issues/901,Docker build hangs  Waiting for exit code to appear for remote command...,"[bug, builder/docker, provisioner/file]",closed,23,2014/2/21,completed
+I2,hashicorp/packer,https://api.github.com/repos/hashicorp/packer/issues/1095,Docker build leaves container behind if error occurs,"[bug, good first issue, builder/docker]",closed,4,2014/4/30,completed
+I3,ansible/ansible,https://api.github.com/repos/ansible/ansible/issues/7331,Can t see docker build output when run from an ansible playbook,"[cloud, docker, bug]",closed,3,2014/5/8,completed
+I4,sbt/sbt-native-packager,https://api.github.com/repos/sbt/sbt-native-packager/issues/310,Docker Build Fail,"[bug, docker]",closed,3,2014/7/30,completed
+I8,hashicorp/packer,https://api.github.com/repos/hashicorp/packer/issues/2268,Docker build fails using a local image as base image,"[bug, builder/docker]",closed,6,2015/6/18,completed
+I9,travis-ci/travis-ci,https://api.github.com/repos/travis-ci/travis-ci/issues/4592,Multi-OS with partial docker builds does not run apt stage,"[bug, travis-hub, stale]",closed,10,2015/7/29,completed
+I11,CiscoCloud/distributive,https://api.github.com/repos/CiscoCloud/distributive/issues/99,docker build fails due to incorrect time,[bug],closed,7,2015/10/16,completed
+I14,deis/slugbuilder,https://api.github.com/repos/deis/slugbuilder/issues/4,fix(Dockerfile): store mc binary and download on docker build,[bug],closed,5,2015/11/25,completed
+I16,ansible/ansible,https://api.github.com/repos/ansible/ansible/issues/13652,Weird  msg: src and dest are required for creating links  error when using Ansible inside a Docker build,"[needs_info, affects_2.2, affects_2.3, docker, needs_template, support:core, bug]",closed,27,2015/12/23,completed
+I18,numenta/nupic-legacy,https://api.github.com/repos/numenta/nupic-legacy/issues/2350,Docker builds failing since July 22 2015,"[type:bug, type:build, priority:2]",closed,7,2015/7/27,completed
+I20,AdaptiveConsulting/ReactiveTraderCloud,https://api.github.com/repos/AdaptiveConsulting/ReactiveTraderCloud/issues/165,docker build failing with last docker toolbox,[bug],closed,5,2016/1/12,completed
+I24,ManageIQ/manageiq,https://api.github.com/repos/ManageIQ/manageiq/issues/7802,New pglogical packages are breaking the Docker build,"[bug, build]",closed,3,2016/4/7,completed
+I25,weaviate/weaviate,https://api.github.com/repos/weaviate/weaviate/issues/13,Frisbyjs specs not existing or being malformed do not fail Docker build,[bug],closed,5,2016/4/13,completed
+I26,hashicorp/packer,https://api.github.com/repos/hashicorp/packer/issues/3471,Docker build failing on Windows due to path syntax,"[bug, stage/duplicate, windows-host, builder/docker]",closed,3,2016/4/25,completed
+I27,gopherjs/gopherjs,https://api.github.com/repos/gopherjs/gopherjs/issues/489,docker build failing,[bug],closed,6,2016/7/16,completed
+I30,telefonicaid/fiware-orion,https://api.github.com/repos/telefonicaid/fiware-orion/issues/2470,gmock repository changed and Docker build fails,"[bug, P8]",closed,4,2016/8/26,completed
+I35,scidash/neuronunit,https://api.github.com/repos/scidash/neuronunit/issues/37,Docker build NU replication of AIBS.ipynb scipy/optomize/minpack is given parameters it can t optomize.,[bug],closed,7,2016/11/30,completed
+I37,numenta/nupic-legacy,https://api.github.com/repos/numenta/nupic-legacy/issues/3026,coreos-vagrant docker build error,"[type:bug, subject:vm, type:installation]",closed,6,2016/2/26,completed
+I38,mozilla/addons-frontend,https://api.github.com/repos/mozilla/addons-frontend/issues/1221,Travis builds/UI tests are broken with CircleCI Docker builds,"[type:bug, priority:p1]",closed,3,2016/10/13,completed
+I45,mastodon/mastodon,https://api.github.com/repos/mastodon/mastodon/issues/869,Failing docker-compose build,[bug],closed,14,2017/4/4,completed
+I53,takeoff-env/takeoff,https://api.github.com/repos/takeoff-env/takeoff/issues/12,Windows docker-compose build fails,"[bug, help wanted, windows, Hacktoberfest, good first issue]",closed,3,2017/9/6,completed
+I54,rapid7/metasploit-framework,https://api.github.com/repos/rapid7/metasploit-framework/issues/9019,Travis docker-compose Build Jobs failed with timeouts,[bug],closed,3,2017/9/29,completed
+I55,SpeciesFileGroup/taxonworks,https://api.github.com/repos/SpeciesFileGroup/taxonworks/issues/250,docker-compose build/up fails with migration error,[bug],closed,5,2017/10/5,completed
+I56,nativefier/nativefier,https://api.github.com/repos/nativefier/nativefier/issues/461,Docker build fails on failing to parse mime-db/db.json,[bug],closed,6,2017/10/9,completed
+I57,reactql/kit,https://api.github.com/repos/reactql/kit/issues/111,Docker build fails when the source references a *.png in the static folder,"[bug, next]",closed,7,2017/10/25,completed
+I61,adoptium/temurin-build,https://api.github.com/repos/adoptium/temurin-build/issues/194,docker builds failing,[bug],closed,20,2017/12/8,completed
+I62,ariya/phantomjs,https://api.github.com/repos/ariya/phantomjs/issues/15211,Sporadic failures in linux docker build script,"[Bug, Need reproduction, Need more information, Crash]",closed,3,2017/12/8,completed
+I63,sudomesh/sudowrt-firmware,https://api.github.com/repos/sudomesh/sudowrt-firmware/issues/119,docker build system eats up disk space on local builds machine,[bug],closed,6,2017/12/15,completed
+I64,badges/shields,https://api.github.com/repos/badges/shields/issues/1400,Problem with Docker build badge: repo not found,"[bug, service-badge]",closed,28,2017/12/27,completed
+I67,badges/shields,https://api.github.com/repos/badges/shields/issues/1435,failed docker build due to missing git,"[bug, self-hosting]",closed,9,2018/1/11,completed
+I71,skiffos/SkiffOS,https://api.github.com/repos/skiffos/SkiffOS/issues/60,odroid/common: format & install commands after docker build,"[bug, question, has-workaround]",closed,8,2018/2/20,completed
+I74,nexe/nexe,https://api.github.com/repos/nexe/nexe/issues/467,Failed to compile without a TTY (example: docker build),[bug],closed,7,2018/3/16,completed
+I75,EPFL-LCSB/pytfa,https://api.github.com/repos/EPFL-LCSB/pytfa/issues/5,CPLEX binaries should not be mandatory for Docker build,[bug],closed,6,2018/3/21,completed
+I76,adoptium/temurin-build,https://api.github.com/repos/adoptium/temurin-build/issues/273,Docker builds do not honour the --ssh flag being passed through,[bug],closed,4,2018/3/23,completed
+I77,adoptium/temurin-build,https://api.github.com/repos/adoptium/temurin-build/issues/274,openjdk-build/docker builds fail because of repo location and then further failures.,[bug],closed,4,2018/3/23,completed
+I81,openfaas/faas-cli,https://api.github.com/repos/openfaas/faas-cli/issues/392,Build returns  docker build  requires exactly 1 argument with particular build-arg values,"[bug, skill/intermediate]",closed,11,2018/4/25,completed
+I82,serverless/serverless-python-requirements,https://api.github.com/repos/serverless/serverless-python-requirements/issues/184,Docker build fails if space in Path,"[bug, Windows]",closed,5,2018/4/29,completed
+I83,heketi/heketi,https://api.github.com/repos/heketi/heketi/issues/1186,docker builds failing,[bug],closed,4,2018/5/16,completed
+I84,ParallelSSH/ssh2-python,https://api.github.com/repos/ParallelSSH/ssh2-python/issues/25,Docker builds not working with older versions of libssh2 and EMBEDDED_LIB=0,[bug],closed,16,2018/5/24,completed
+I85,buildkite/agent,https://api.github.com/repos/buildkite/agent/issues/778,legacy docker-compose builds with multiple commands broken in v3,[bug],closed,6,2018/5/25,completed
+I88,Glavin001/atom-beautify,https://api.github.com/repos/Glavin001/atom-beautify/issues/2190,Docker version check broke on nightly docker build,"[bug, stale]",closed,11,2018/7/30,completed
+I95,Hydrospheredata/hydro-serving,https://api.github.com/repos/Hydrospheredata/hydro-serving/issues/215,Docker builds images even on unsuccessful pip installation,[bug],closed,3,2018/10/29,completed
+I96,OWASP/Nettacker,https://api.github.com/repos/OWASP/Nettacker/issues/188,Docker build with alpine ERROR: unsatisfiable constraints,"[bug, Docker]",closed,5,2018/11/5,completed
+I97,gomods/athens,https://api.github.com/repos/gomods/athens/issues/899,Docker build is failing on travis,"[bug, ci/cd]",closed,4,2018/11/11,completed
+I99,aviaviavi/toodles,https://api.github.com/repos/aviaviavi/toodles/issues/54,docker build issues since 1.0.0,[bug],closed,5,2018/11/24,completed
+I102,DangerOnTheRanger/maniwani,https://api.github.com/repos/DangerOnTheRanger/maniwani/issues/33,Docker-compose build fails on old versions of docker and docker compose (Fedora),[bug],closed,16,2018/12/4,completed
+I103,tophat/yvm,https://api.github.com/repos/tophat/yvm/issues/240,Removing YVM_ALIAS_DIR borked docker builds,"[bug, idea]",closed,5,2018/12/12,completed
+I104,badges/shields,https://api.github.com/repos/badges/shields/issues/2533,Docker build shield show  manual  instead of  automated ?,"[needs-upstream-help, bug, service-badge]",closed,10,2018/12/14,completed
+I105,yggdrasil-network/yggdrasil-go,https://api.github.com/repos/yggdrasil-network/yggdrasil-go/issues/263,Docker build fails: GCC missing,"[bug, docker]",closed,10,2018/12/17,completed
+I106,habitat-sh/builder,https://api.github.com/repos/habitat-sh/builder/issues/255,Docker build failed when trying to publish to Docker Hub Container Registry,"[Type:Bug, Type:Stability]",closed,5,2018/3/6,completed
+I107,jellyfin/jellyfin,https://api.github.com/repos/jellyfin/jellyfin/issues/425,docker build fails in latest dev branch,"[bug, build, regression]",closed,3,2019/1/5,completed
+I108,writefreely/writefreely,https://api.github.com/repos/writefreely/writefreely/issues/57,Docker build doesn t compile static assets,"[bug, build]",closed,8,2019/1/8,completed
+I109,OmerTu/GoogleHomeKodi,https://api.github.com/repos/OmerTu/GoogleHomeKodi/issues/203,Problem Docker Build,[bug],closed,6,2019/1/9,completed
+I112,OmniDB/OmniDB,https://api.github.com/repos/OmniDB/OmniDB/issues/838,Docker build .,"[bug, fixed]",closed,3,2019/1/23,completed
+I115,jupyter-server/enterprise_gateway,https://api.github.com/repos/jupyter-server/enterprise_gateway/issues/581,`zmq.h` and `linux/tipc.h`: No suchfile or directory in docker build,"[bug, kubernetes, dependency]",closed,4,2019/2/20,completed
+I116,geopython/GeoHealthCheck,https://api.github.com/repos/geopython/GeoHealthCheck/issues/240,Docker build suddenly fails,[bug],closed,5,2019/3/8,completed
+I121,tilt-dev/tilt,https://api.github.com/repos/tilt-dev/tilt/issues/1516,Cannot see docker build errors,[bug],closed,3,2019/4/22,completed
+I122,Azure/acr-builder,https://api.github.com/repos/Azure/acr-builder/issues/441,Set working directory of docker build relative to task working directory,[bug],closed,3,2019/4/26,completed
+I123,coinbase/terraform-landscape,https://api.github.com/repos/coinbase/terraform-landscape/issues/96,Dockerfile/docker build broken,[bug],closed,3,2019/5/6,completed
+I124,tilt-dev/tilt,https://api.github.com/repos/tilt-dev/tilt/issues/1639,"[docker-compose] when using a docker caching proxy, docker build never finishes",[bug],closed,16,2019/5/16,completed
+I127,openwisp/openwisp-controller,https://api.github.com/repos/openwisp/openwisp-controller/issues/103,[bug] Docker build error,[bug],closed,5,2019/5/28,completed
+I128,nunomaduro/phpinsights,https://api.github.com/repos/nunomaduro/phpinsights/issues/166,Automatic docker build has failed,[bug],closed,5,2019/6/5,completed
+I131,mindsdb/mindsdb,https://api.github.com/repos/mindsdb/mindsdb/issues/255,Docker build failed,[bug],closed,8,2019/7/2,completed
+I132,horovod/horovod,https://api.github.com/repos/horovod/horovod/issues/1217,MXNet cu100-pre broke docker build on CPU machine,[bug],closed,10,2019/7/13,completed
+I133,osrf/subt,https://api.github.com/repos/osrf/subt/issues/132,Cannot run docker build in SystemSetupDocker,"[bug, major]",closed,17,2019/7/26,completed
+I134,hashicorp/packer,https://api.github.com/repos/hashicorp/packer/issues/7938,Docker builder failing to build images on windows when mounting a volume in a container,"[bug, builder/docker]",closed,4,2019/8/1,completed
+I135,trailofbits/deepstate,https://api.github.com/repos/trailofbits/deepstate/issues/225,"Docker Build Gets Stuck, Fails","[bug, help wanted, docker, HIGH PRIORITY]",closed,4,2019/8/2,completed
+I138,adoptium/temurin-build,https://api.github.com/repos/adoptium/temurin-build/issues/1216,Docker builds failing on MacOS,[bug],closed,4,2019/8/13,completed
+I141,axa-group/Parsr,https://api.github.com/repos/axa-group/Parsr/issues/53,Error on docker-compose build,"[bug, installation / deployment]",closed,3,2019/9/5,completed
+I143,aevea/commitsar,https://api.github.com/repos/aevea/commitsar/issues/92,update docker build to latest version/automate builds,[bug],closed,4,2019/9/6,completed
+I148,github/semantic,https://api.github.com/repos/github/semantic/issues/321,Docker Build Error,"[bug, build]",closed,3,2019/10/9,completed
+I151,coder/code-server,https://api.github.com/repos/coder/code-server/issues/1096,Docker Build doesn t work on AWS Ubuntu 18.04,[bug],closed,3,2019/10/23,completed
+I155,ScottBrenner/cfn-lint-action,https://api.github.com/repos/ScottBrenner/cfn-lint-action/issues/4,Docker build failed,[bug],closed,3,2019/11/8,completed
+I156,hashicorp/vault,https://api.github.com/repos/hashicorp/vault/issues/7844,Upgrade the go compiler version in Docker build,"[bug, release/build]",closed,3,2019/11/8,completed
+I157,mlflow/mlflow,https://api.github.com/repos/mlflow/mlflow/issues/2101,[BUG] Docker build fails on unable to satisfy requirement for sphinx 2.2.1,[bug],closed,12,2019/11/15,completed
+I158,iv-org/invidious,https://api.github.com/repos/iv-org/invidious/issues/917, Invalid memory access (signal 11) at address 0x10000001b  on Docker build,[bug],closed,30,2019/11/19,completed
+I159,BishopFox/sliver,https://api.github.com/repos/BishopFox/sliver/issues/136,Docker build is failing,[bug],closed,4,2019/11/21,completed
+I162,scorelab/Bassa,https://api.github.com/repos/scorelab/Bassa/issues/832,broken docker builds for api server,[bug],closed,3,2019/12/5,completed
+I163,jellyfin/jellyfin,https://api.github.com/repos/jellyfin/jellyfin/issues/2126,[bug] Transcode error on linux/arm docker build,[bug],closed,15,2019/12/8,completed
+I166,tensorflow/serving,https://api.github.com/repos/tensorflow/serving/issues/1363,Docker build issue with r1.14 branch,"[stat:awaiting tensorflower, type:bug]",closed,15,2019/5/29,completed
+I167,jupyter/docker-stacks,https://api.github.com/repos/jupyter/docker-stacks/issues/892,conda update numpy breaks Docker build,[type:Bug],closed,3,2019/6/27,completed
+I168,spotify/heroic,https://api.github.com/repos/spotify/heroic/issues/577,docker builds broken in 0.10.x,[type:bug],closed,7,2019/11/5,completed
+I171,IUNetSci/BotSlayer-CE,https://api.github.com/repos/IUNetSci/BotSlayer-CE/issues/40,Docker build fails,[bug],closed,3,2020/1/13,completed
+I172,jellyfin/jellyfin,https://api.github.com/repos/jellyfin/jellyfin/issues/2328,Please create a non-docker build path,[bug],closed,3,2020/1/22,completed
+I173,taichi-dev/taichi,https://api.github.com/repos/taichi-dev/taichi/issues/408,Docker build is broken due to PPA removed,"[bug, welcome contribution]",closed,4,2020/1/29,completed
+I174,AdoptOpenJDK/openjdk-docker,https://api.github.com/repos/AdoptOpenJDK/openjdk-docker/issues/285,docker builds are broken with v3 API,[bug],closed,7,2020/1/29,completed
+I176,luizperes/simdjson_nodejs,https://api.github.com/repos/luizperes/simdjson_nodejs/issues/22,Debian Stretch 9.11 Docker Build Fails,"[bug, help wanted, linux]",closed,3,2020/2/4,completed
+I177,department-of-veterans-affairs/vets-api,https://api.github.com/repos/department-of-veterans-affairs/vets-api/issues/3891,Docker builds fail when clamav updates take too long,[bug],closed,3,2020/2/11,completed
+I178,BitGo/BitGoJS,https://api.github.com/repos/BitGo/BitGoJS/issues/667,docker build  -  invalid bin entry for package msgpack-lite,"[bug, stale]",closed,3,2020/2/12,completed
+I179,pytorch/serve,https://api.github.com/repos/pytorch/serve/issues/31,docker build failing on line 27,[bug],closed,5,2020/2/16,completed
+I180,SyneRBI/SIRF-SuperBuild,https://api.github.com/repos/SyneRBI/SIRF-SuperBuild/issues/331,Docker build fails for Travis,[bug],closed,14,2020/2/24,completed
+I181,SyneRBI/SIRF-SuperBuild,https://api.github.com/repos/SyneRBI/SIRF-SuperBuild/issues/332,disable docker builds for PRs or even branches,[bug],closed,4,2020/2/24,completed
+I182,oauth2-proxy/oauth2-proxy,https://api.github.com/repos/oauth2-proxy/oauth2-proxy/issues/417,Golangci-lint v1.17.1 docker build failure on OdroidHC2,"[bug, help wanted, good first issue]",closed,3,2020/2/24,completed
+I183,openwisp/openwisp-controller,https://api.github.com/repos/openwisp/openwisp-controller/issues/164,Docker Build Error,"[bug, Good first issue, Hacktoberfest]",closed,10,2020/3/9,completed
+I184,datahub-project/datahub,https://api.github.com/repos/datahub-project/datahub/issues/1589,"when run docker build , elasticsearch is not found","[bug, pending-submitter-response]",closed,7,2020/3/10,completed
+I185,apache/mxnet,https://api.github.com/repos/apache/mxnet/issues/17819,Why is nvcc not installed along with cuda in mxnet docker builds?,[Bug],closed,3,2020/3/11,completed
+I186,adoptium/infrastructure,https://api.github.com/repos/adoptium/infrastructure/issues/1201,docker build machine docker-scaleway-ubuntu1604-armv7l-1 is out of space,[bug],closed,10,2020/3/14,completed
+I187,recommenders-team/recommenders,https://api.github.com/repos/recommenders-team/recommenders/issues/1066,[BUG] Docker build stuck at final 1/2,[bug],closed,4,2020/3/16,completed
+I188,LinuxForHealth/FHIR,https://api.github.com/repos/LinuxForHealth/FHIR/issues/808,Docker build failure,[bug],closed,4,2020/3/18,completed
+I189,dotnet/tye,https://api.github.com/repos/dotnet/tye/issues/153, docker build -step of tye deploy fails when project is not on system drive,[bug],closed,9,2020/3/19,completed
+I190,coturn/coturn,https://api.github.com/repos/coturn/coturn/issues/512,Docker build leaves behind crap in image root directory,[bug],closed,3,2020/3/29,completed
+I191,backstage/backstage,https://api.github.com/repos/backstage/backstage/issues/436,docker build of latest source not working,[bug],closed,9,2020/4/1,completed
+I195,microsoft/vscode-docker,https://api.github.com/repos/microsoft/vscode-docker/issues/1824,Docker Build Image Issue no such file,"[bug, .NET]",closed,5,2020/4/6,completed
+I197,ros2/ci,https://api.github.com/repos/ros2/ci/issues/423,Docker builds fail on top of current Win 10 1909,[bug],closed,4,2020/4/6,completed
+I199,coder/code-server,https://api.github.com/repos/coder/code-server/issues/1505,3.0.2-arm64 Docker build broken?,[bug],closed,12,2020/4/8,completed
+I201,SyneRBI/SIRF-SuperBuild,https://api.github.com/repos/SyneRBI/SIRF-SuperBuild/issues/379,docker builds fail,[bug],closed,3,2020/4/25,completed
+I203,Unity-Technologies/ml-agents,https://api.github.com/repos/Unity-Technologies/ml-agents/issues/3880,Docker build error: pip out of date,[bug],closed,3,2020/4/28,completed
+I205,doccano/doccano,https://api.github.com/repos/doccano/doccano/issues/763,On first docker build: core-js not found,[bug],closed,3,2020/5/11,completed
+I206,adoptium/temurin-build,https://api.github.com/repos/adoptium/temurin-build/issues/1745,When executing a docker build I m not guided to where I get the resulting binary,[bug],closed,6,2020/5/15,completed
+I210,chrisvel/wreeto_official,https://api.github.com/repos/chrisvel/wreeto_official/issues/22,Docker build fails on arm platform - Failed to build bgcrypt gem native extension,[bug],closed,6,2020/5/31,completed
+I212,recommenders-team/recommenders,https://api.github.com/repos/recommenders-team/recommenders/issues/1121,[BUG] Docker build failed at  Failed to build xlearn,[bug],closed,5,2020/6/11,completed
+I213,aws/aws-cdk,https://api.github.com/repos/aws/aws-cdk/issues/8518,Docker build fails for creating local CDK dev environment,"[bug, p2, package/tools, effort/small]",closed,17,2020/6/12,completed
+I214,flashlight/wav2letter,https://api.github.com/repos/flashlight/wav2letter/issues/706,All tests fail on the latest docker build with cpu backend,[bug],closed,6,2020/6/18,completed
+I218,mbrn/material-table,https://api.github.com/repos/mbrn/material-table/issues/2109,Docker build fails on `npm install: Error while executing: undefined ls-remote -h -t ssh://git@github.com/eligrey/FileSaver.js.git,"[bug, wontfix]",closed,14,2020/6/29,completed
+I221,Attendize/Attendize,https://api.github.com/repos/Attendize/Attendize/issues/822,[BUG] Docker build is failing when executing php artisan migrate,[bug],closed,9,2020/7/11,completed
+I223,splunk/eventgen,https://api.github.com/repos/splunk/eventgen/issues/403,"[BUG] Docker build is failing, compilation in Docker and out of Docker is failing too",[bug],closed,4,2020/7/16,completed
+I224,RestyaPlatform/board,https://api.github.com/repos/RestyaPlatform/board/issues/4119,Docker build problems,[bug],closed,3,2020/7/17,completed
+I226,hyperledger/bevel,https://api.github.com/repos/hyperledger/bevel/issues/866,Docker build fails while creating custom agent for Aries,"[bug, Release 0.6.0.0]",closed,3,2020/7/22,completed
+I227,microsoft/vscode-remote-release,https://api.github.com/repos/microsoft/vscode-remote-release/issues/3411,[Feature request] More verbose output on docker-compose build errors,"[bug, containers, info-needed]",closed,3,2020/7/22,completed
+I228,OpenLiberty/ci.gradle,https://api.github.com/repos/OpenLiberty/ci.gradle/issues/506,Gradle plugin does not display docker build error,"[bug, devMode, devModeContainers]",closed,6,2020/7/23,completed
+I229,IntersectMBO/cardano-addresses,https://api.github.com/repos/IntersectMBO/cardano-addresses/issues/51,Stack setup fails in Docker build,"[PRIORITY:HIGH, SEVERITY:MEDIUM, BUG]",closed,3,2020/7/30,completed
+I239,kermitt2/grobid,https://api.github.com/repos/kermitt2/grobid/issues/628,Docker build broken in current master,"[bug, implemented]",closed,11,2020/8/27,completed
+I241,openbmc/bmcweb,https://api.github.com/repos/openbmc/bmcweb/issues/148,buildresult from docker build fails to start,[bug],closed,6,2020/9/7,completed
+I243,trustwallet/wallet-core,https://api.github.com/repos/trustwallet/wallet-core/issues/1105,Docker build fails,[bug],closed,4,2020/9/11,completed
+I245,CircleCI-Public/aws-ecr-orb,https://api.github.com/repos/CircleCI-Public/aws-ecr-orb/issues/112,"Docker build error invalid argument  *****/repo:latest  for  -t, --tag  flag: invalid reference format",[bug],closed,5,2020/9/16,completed
+I246,NVIDIA-Merlin/NVTabular,https://api.github.com/repos/NVIDIA-Merlin/NVTabular/issues/307,[BUG] docker build fails for examples/tensorflow/docker/Dockerfile,[bug],closed,9,2020/9/17,completed
+I247,aws/aws-cdk,https://api.github.com/repos/aws/aws-cdk/issues/10438,[core]  Full docker build  no longer works,"[bug, p1, package/tools, management/devenv, effort/medium]",closed,8,2020/9/18,completed
+I248,espnet/espnet,https://api.github.com/repos/espnet/espnet/issues/2508,Docker build error,[Bug],closed,15,2020/9/23,completed
+I250,NVIDIA/DeepLearningExamples,https://api.github.com/repos/NVIDIA/DeepLearningExamples/issues/697,[DLRM/PyTorch] Docker build error,[bug],closed,7,2020/9/23,completed
+I251,graphite-project/docker-graphite-statsd,https://api.github.com/repos/graphite-project/docker-graphite-statsd/issues/156,[BUG] docker build fails because of go version dependency,[bug],closed,3,2020/9/26,completed
+I252,nccgroup/ScoutSuite,https://api.github.com/repos/nccgroup/ScoutSuite/issues/882,Docker build broken,"[bug, potential]",closed,5,2020/10/3,completed
+I255,zalando/spilo,https://api.github.com/repos/zalando/spilo/issues/508,docker build of spilo image is failing,[bug],closed,9,2020/10/16,completed
+I256,nccgroup/ScoutSuite,https://api.github.com/repos/nccgroup/ScoutSuite/issues/905,Docker build broken on master still,"[bug, duplicate]",closed,4,2020/10/16,completed
+I257,oss-review-toolkit/ort,https://api.github.com/repos/oss-review-toolkit/ort/issues/3226,Docker build failed - ERROR [stage-1 6/6] RUN tar xf /opt/ort.tar -C /opt/ort --strip-comp  95.8s,"[bug, docker]",closed,4,2020/10/21,completed
+I259,microsoft/azure-pipelines-tasks,https://api.github.com/repos/microsoft/azure-pipelines-tasks/issues/13746,Occasional docker build task failure when completing push and attempting to clear temp directory,"[bug, Area: Release]",closed,15,2020/10/21,completed
+I263,excalidraw/excalidraw,https://api.github.com/repos/excalidraw/excalidraw/issues/2304,docker build failing,[bug],closed,3,2020/10/28,completed
+I264,AdoptOpenJDK/openjdk-docker,https://api.github.com/repos/AdoptOpenJDK/openjdk-docker/issues/464,Investigate docker build job failures in the last few days,[bug],closed,14,2020/11/11,completed
+I265,terraforming-mars/terraforming-mars,https://api.github.com/repos/terraforming-mars/terraforming-mars/issues/1899,Docker build fails,[bug],closed,6,2020/11/15,completed
+I266,Sifchain/sifnode,https://api.github.com/repos/Sifchain/sifnode/issues/278,Running this script gives an error at the end of the docker build:,[bug],closed,3,2020/11/17,completed
+I268,OpenLiberty/ci.maven,https://api.github.com/repos/OpenLiberty/ci.maven/issues/1045,Docker build output logged as ERROR when run liberty:devc on Win VM,"[bug, medium priority, devModeContainers]",closed,5,2020/11/30,completed
+I271,DeviaVir/zenbot,https://api.github.com/repos/DeviaVir/zenbot/issues/2535,Docker build currently not working,[bug],closed,7,2020/12/5,completed
+I272,adoptium/infrastructure,https://api.github.com/repos/adoptium/infrastructure/issues/1745,Centos6 docker build failing with Mirrorlist issues,[bug],closed,5,2020/12/8,completed
+I273,OpenSlides/OpenSlides,https://api.github.com/repos/OpenSlides/OpenSlides/issues/5766,Test Docker build,[bug],closed,5,2020/12/9,completed
+I274,sap-labs-france/ev-dashboard,https://api.github.com/repos/sap-labs-france/ev-dashboard/issues/2147,docker build - central server not found,[bug],closed,4,2020/12/10,completed
+I275,thirtythreeforty/neolink,https://api.github.com/repos/thirtythreeforty/neolink/issues/104,Docker builds are not working,"[bug, ci]",closed,21,2020/12/10,completed
+I276,pytorch/serve,https://api.github.com/repos/pytorch/serve/issues/860,KFServing instructions fail on Docker build,[bug],closed,10,2020/12/10,completed
+I279,lvgl/lv_port_pc_eclipse,https://api.github.com/repos/lvgl/lv_port_pc_eclipse/issues/81,Docker build is not working on changeset on master head @e151ce7,"[bug, stale]",closed,14,2020/12/20,completed
+I280,ever-co/ever-traduora,https://api.github.com/repos/ever-co/ever-traduora/issues/187,Docker build / compose fail,"[bug, help wanted]",closed,3,2020/12/21,completed
+I281,opencv/opencv,https://api.github.com/repos/opencv/opencv/issues/19198,opencv.js - docker build throws Unexpected string,"[bug, category: build/install, category: javascript (js), confirmed]",closed,3,2020/12/22,completed
+I282,facebookresearch/hydra,https://api.github.com/repos/facebookresearch/hydra/issues/1232,[Bug] Hydra installation failing if java is not installed (Docker build),[bug],closed,5,2020/12/23,completed
+I285,jellyfin/jellyfin,https://api.github.com/repos/jellyfin/jellyfin/issues/4955,Infusesync seems to break rc-2 docker build.,[bug],closed,3,2021/1/5,completed
+I286,apache/apisix-dashboard,https://api.github.com/repos/apache/apisix-dashboard/issues/1233,docker build fail,"[bug, checking]",closed,5,2021/1/7,completed
+I288,nestybox/sysbox,https://api.github.com/repos/nestybox/sysbox/issues/187,Docker build inside sysbox container results in  lchown ... no such file or directory  errors,[bug],closed,34,2021/1/13,completed
+I289,aws/aws-cdk,https://api.github.com/repos/aws/aws-cdk/issues/12610,(aws-lambda-python) docker build is not working,"[bug, p2, effort/medium, blocked, @aws-cdk/aws-lambda-python]",closed,30,2021/1/20,completed
+I290,microsoft/azure-pipelines-tasks,https://api.github.com/repos/microsoft/azure-pipelines-tasks/issues/14262,Docker Build Task 1.181.0 Fails,"[bug, Area: Release]",closed,5,2021/1/21,completed
+I291,fHDHR/fHDHR,https://api.github.com/repos/fHDHR/fHDHR/issues/27,Docker build errors on arm,"[bug, wontfix]",closed,12,2021/1/22,completed
+I293,microsoft/azure-pipelines-tasks,https://api.github.com/repos/microsoft/azure-pipelines-tasks/issues/14298,Docker build tasks are failing since today: invalid argument --tag,"[bug, Area: Release]",closed,3,2021/1/28,completed
+I295,mevdschee/php-crud-api,https://api.github.com/repos/mevdschee/php-crud-api/issues/745,Error when using docker build,[bug],closed,3,2021/1/31,completed
+I296,saleor/saleor,https://api.github.com/repos/saleor/saleor/issues/6824,Docker Build 3.0 fails on Apple M1,[bug],closed,12,2021/2/1,completed
+I297,BergmannLab/MONET,https://api.github.com/repos/BergmannLab/MONET/issues/44,ERROR: docker build returned an error,[bug],closed,3,2021/2/2,completed
+I298,ojkelly/yarn.build,https://api.github.com/repos/ojkelly/yarn.build/issues/73,Dependency tracking and Docker build cache,[bug],closed,3,2021/2/2,completed
+I299,gitleaks/gitleaks,https://api.github.com/repos/gitleaks/gitleaks/issues/522,docker build problem with Go,[bug],closed,5,2021/2/5,completed
+I303,envoyproxy/envoy,https://api.github.com/repos/envoyproxy/envoy/issues/15080,Docker build aborts early if BAZEL_BUILD_EXTRA_OPTIONS contains a space,"[bug, area/build, stale]",closed,5,2021/2/17,completed
+I304,Project-Books/book-project,https://api.github.com/repos/Project-Books/book-project/issues/632,Fix running app using docker-compose build,"[bug, help wanted, dx, docker]",closed,10,2021/2/21,completed
+I305,badges/shields,https://api.github.com/repos/badges/shields/issues/6235,Docker build status Shield returns invalid response data,"[bug, good first issue, service-badge]",closed,3,2021/3/1,completed
+I311,microsoft/vscode-remote-release,https://api.github.com/repos/microsoft/vscode-remote-release/issues/4677,Docker build hangs with missing docker-compose service image (waiting for user input),"[bug, containers, upstream]",closed,5,2021/3/16,completed
+I314,AOT-Technologies/forms-flow-ai,https://api.github.com/repos/AOT-Technologies/forms-flow-ai/issues/56,Problems during docker build,[bug],closed,3,2021/3/23,completed
+I317,GitTools/GitVersion,https://api.github.com/repos/GitTools/GitVersion/issues/2633,[Bug] GitVersion crashes Docker build,"[bug, stale]",closed,4,2021/3/28,completed
+I319,fluxcd/flux,https://api.github.com/repos/fluxcd/flux/issues/3453,Bump to gnutls 3.6.15-r1 or later in docker build and base image,"[bug, blocked-needs-validation]",closed,4,2021/3/30,completed
+I323,nestybox/sysbox,https://api.github.com/repos/nestybox/sysbox/issues/254,Docker build inside sysbox container results in  Error processing tar file(exit status 1): operation not permitted,[bug],closed,11,2021/4/9,completed
+I326,qmk/qmk_firmware,https://api.github.com/repos/qmk/qmk_firmware/issues/12571,[Bug] Docker build not working when keyboard or keymap folder is a symlink,"[bug, help wanted]",closed,3,2021/4/13,completed
+I327,hyperledger-labs/business-partner-agent,https://api.github.com/repos/hyperledger-labs/business-partner-agent/issues/379,Docker build fails,[bug],closed,3,2021/4/14,completed
+I329,game-ci/docker,https://api.github.com/repos/game-ci/docker/issues/103,docker build fails on  ADD config/asound.conf /etc/  on macOS,[bug],closed,3,2021/4/15,completed
+I332,tchapi/davis,https://api.github.com/repos/tchapi/davis/issues/23,"Composer version not specified, causing docker build failure","[bug, good first issue]",closed,8,2021/4/26,completed
+I335,AdoptOpenJDK/openjdk-api-v3,https://api.github.com/repos/AdoptOpenJDK/openjdk-api-v3/issues/394,Bintray Sunset - API docker build failed 403 on nodes-0.5.0.pom,[bug],closed,3,2021/5/4,completed
+I337,six2dez/reconftw,https://api.github.com/repos/six2dez/reconftw/issues/276,Google dorks have 0 results now on docker build.,[bug],closed,5,2021/5/7,completed
+I343,ethereum-optimism/optimism-tutorial,https://api.github.com/repos/ethereum-optimism/optimism-tutorial/issues/36,Issue with package @eth-optimism/contracts when running docker-compose build,[bug],closed,7,2021/5/25,completed
+I344,NoahCardoza/CloudProxy,https://api.github.com/repos/NoahCardoza/CloudProxy/issues/49,Npm build / Docker build fails,[bug],closed,3,2021/5/25,completed
+I346,aws/jsii,https://api.github.com/repos/aws/jsii/issues/2872,jsii/superchain docker build fails to build due to missing dependency for fsharp-5.0.0.0,"[bug, language/dotnet, p2, closed-for-staleness]",closed,3,2021/6/3,completed
+I350,TrueBlocks/trueblocks-docker,https://api.github.com/repos/TrueBlocks/trueblocks-docker/issues/305,Docker builds but core dumps when used,"[bug, TD-docker]",closed,3,2021/6/11,completed
+I352,verificarlo/verificarlo,https://api.github.com/repos/verificarlo/verificarlo/issues/257,Docker build is broken,[bug],closed,7,2021/6/15,completed
+I353,hyperledger/fabric-private-chaincode,https://api.github.com/repos/hyperledger/fabric-private-chaincode/issues/603,Sample Test-network build fails on ecc docker build,[bug],closed,8,2021/6/15,completed
+I354,opensearch-project/OpenSearch,https://api.github.com/repos/opensearch-project/OpenSearch/issues/868,two log4j2.properties instead of one for docker build,"[bug, untriaged, Beta]",closed,3,2021/6/22,completed
+I355,jesseduffield/lazydocker,https://api.github.com/repos/jesseduffield/lazydocker/issues/262,docker-compose build fail,[bug],closed,5,2021/6/25,completed
+I356,BitGo/BitGoJS,https://api.github.com/repos/BitGo/BitGoJS/issues/1250,Bug docker build bitgo-express,"[bug, stale]",closed,3,2021/7/2,completed
+I357,ergochat/ergo,https://api.github.com/repos/ergochat/ergo/issues/1726,docker build is broken,"[bug, release blocker]",closed,3,2021/7/2,completed
+I358,npm/cli,https://api.github.com/repos/npm/cli/issues/3516,CB() never called error during docker build,"[Release 7.x, Bug, Needs Triage]",closed,4,2021/7/5,completed
+I359,nextcloud/nextcloudpi,https://api.github.com/repos/nextcloud/nextcloudpi/issues/1297,docker build for arm64 fails with  Device or resource busy,"[bug, docker, build]",closed,6,2021/7/5,completed
+I360,opengovsg/FormSG,https://api.github.com/repos/opengovsg/FormSG/issues/2393,CD pipeline deploys to production even when Docker build fails,"[bug, P3]",closed,4,2021/7/14,completed
+I362,superfly/flyctl,https://api.github.com/repos/superfly/flyctl/issues/456,Files are being sent to docker build context that should be excluded via .dockerignore,[bug],closed,16,2021/7/15,completed
+I365,automl/auto-sklearn,https://api.github.com/repos/automl/auto-sklearn/issues/1193,Docker build broken,[bug],closed,4,2021/7/28,completed
+I366,iv-org/invidious,https://api.github.com/repos/iv-org/invidious/issues/2310,[Bug] Docker build fails (boringssl),"[bug, type:container]",closed,4,2021/8/8,completed
+I370,BobAnkh/auto-generate-changelog,https://api.github.com/repos/BobAnkh/auto-generate-changelog/issues/64,[bug] Docker build failed with code 100,[bug],closed,8,2021/8/17,completed
+I371,kermitt2/grobid,https://api.github.com/repos/kermitt2/grobid/issues/822,Docker build fail,"[bug, implemented]",closed,3,2021/8/23,completed
+I372,AleoHQ/snarkOS,https://api.github.com/repos/AleoHQ/snarkOS/issues/1069,[Bug] docker-compose build for v1.3.14 failed.,"[bug, configurations]",closed,3,2021/8/24,completed
+I375,gazebosim/gz-sim,https://api.github.com/repos/gazebosim/gz-sim/issues/1004,ign-gazebo5 Docker build fails; unable to locate package dart6-data,[bug],closed,7,2021/8/31,completed
+I378,dlstreamer/pipeline-server,https://api.github.com/repos/dlstreamer/pipeline-server/issues/88,Docker build fails if no_proxy setting contains spaces,"[bug, question]",closed,4,2021/9/8,completed
+I380,anmol098/waka-readme-stats,https://api.github.com/repos/anmol098/waka-readme-stats/issues/226,BUG: Docker build failed with exit code 1,[bug],closed,15,2021/9/21,completed
+I383,TheUltimateFoxOS/FoxOS,https://api.github.com/repos/TheUltimateFoxOS/FoxOS/issues/6,Docker build fails unexpected,[Bug],closed,8,2021/9/26,completed
+I385,Auto-DL/Auto-DL,https://api.github.com/repos/Auto-DL/Auto-DL/issues/356,Docker build fail,"[bug, help wanted, hacktoberfest, dependencies, python]",closed,7,2021/10/1,completed
+I387,hashicorp/terraform-cdk,https://api.github.com/repos/hashicorp/terraform-cdk/issues/1114,cdktf get in docker build fails with  TypeError: Cannot read properties of undefined (reading  dots ),[bug],closed,4,2021/10/4,completed
+I389,nipreps/fmriprep,https://api.github.com/repos/nipreps/fmriprep/issues/2592,CI skips docker build/push if tag is on commit with  DOC:   message,[bug],closed,3,2021/10/12,completed
+I390,convos-chat/convos,https://api.github.com/repos/convos-chat/convos/issues/624,Inconsistent Docker build architecture,[bug],closed,3,2021/10/13,completed
+I392,syncthing/syncthing,https://api.github.com/repos/syncthing/syncthing/issues/8008,Docker build fails for v1.18.3,"[bug, frozen-due-to-age, needs-triage]",closed,11,2021/10/20,completed
+I399,opensearch-project/opensearch-build,https://api.github.com/repos/opensearch-project/opensearch-build/issues/1154,[Bug]: Docker build fails without security plugin,"[bug, untriaged]",closed,8,2021/11/24,completed
+I400,pantsbuild/pants,https://api.github.com/repos/pantsbuild/pants/issues/13718,Docker build environment config precedence,[bug],closed,6,2021/11/26,completed
+I401,antonbabenko/pre-commit-terraform,https://api.github.com/repos/antonbabenko/pre-commit-terraform/issues/287,Docker build fails,"[bug, area/docker]",closed,4,2021/11/28,completed
+I402,mpast/mobileAudit,https://api.github.com/repos/mpast/mobileAudit/issues/48,docker compose up / docker-compose build,[bug],closed,3,2021/12/1,completed
+I403,argoproj/argo-cd,https://api.github.com/repos/argoproj/argo-cd/issues/7859,Docker build for ArgoCD is using old version of kubectl,[bug],closed,4,2021/12/4,completed
+I404,pantsbuild/pants,https://api.github.com/repos/pantsbuild/pants/issues/13850,Misleading error message when unknown docker build-arg is referenced in `image_tags`,[bug],closed,3,2021/12/9,completed
+I405,dotnet/dotnet-docker,https://api.github.com/repos/dotnet/dotnet-docker/issues/3338,.NET6 docker build stuck on dotnet restore,"[bug, untriaged]",closed,32,2021/12/13,completed
+I407,ultralytics/yolov5,https://api.github.com/repos/ultralytics/yolov5/issues/6016,"Docker (nvcr.io/nvidia/pytorch:21.10-py), Error when  docker build .","[bug, Stale]",closed,3,2021/12/17,completed
+I408,okteto/okteto,https://api.github.com/repos/okteto/okteto/issues/2098,`okteto build` is not equivalent to the `docker build` behavior for dockerignore files,"[bug, customer reported]",closed,3,2021/12/20,completed
+I410,keras-team/keras-io,https://api.github.com/repos/keras-team/keras-io/issues/412,Docker build command does not work,"[stale, stat:awaiting response from contributor, type:bug]",closed,4,2021/3/17,completed
+I413,lowRISC/opentitan,https://api.github.com/repos/lowRISC/opentitan/issues/8569,[docker] Docker build failures,"[Component:Tooling, Type:Bug]",closed,5,2021/10/7,completed
+I414,homuler/MediaPipeUnityPlugin,https://api.github.com/repos/homuler/MediaPipeUnityPlugin/issues/349,Windows mediapipe_jni and docker build problem,"[type:bug, platform:android]",closed,3,2021/11/10,completed
+I415,dotnet/dotnet-docker,https://api.github.com/repos/dotnet/dotnet-docker/issues/3379,dotnet6 docker build create a none images,[bug],closed,5,2022/1/6,completed
+I416,sigstore/cosign-installer,https://api.github.com/repos/sigstore/cosign-installer/issues/47,signing image always fail with multuple stage docker build,[bug],closed,8,2022/1/7,completed
+I418,mattermost/focalboard,https://api.github.com/repos/mattermost/focalboard/issues/2115,"Bug: Docker build failure on arm64, v0.12.0","[Bug, Help Wanted, Up for grabs]",closed,4,2022/1/13,completed
+I420,runatlantis/atlantis,https://api.github.com/repos/runatlantis/atlantis/issues/2001,Atlantis v0.18.1 Docker Builds do not run on ECS/Fargate ARM Graviton,"[bug, docker-multi-platform]",closed,12,2022/1/14,completed
+I422,puppeteer/puppeteer,https://api.github.com/repos/puppeteer/puppeteer/issues/7903,[Bug]: aria selection not working on docker build,"[bug, unconfirmed]",closed,3,2022/1/14,completed
+I424,spdk/spdk,https://api.github.com/repos/spdk/spdk/issues/2332,docker-compose build failed,"[bug, Low, Patches out for review]",closed,4,2022/1/18,completed
+I425,benbusby/whoogle-search,https://api.github.com/repos/benbusby/whoogle-search/issues/622,[BUG] Latest commit (ecb4277) completely breaks the docker-compose build,[bug],closed,5,2022/1/22,completed
+I429,envoyproxy/envoy,https://api.github.com/repos/envoyproxy/envoy/issues/19832,New Docker build ~seems to be flakey~ is broken,"[bug, area/docker, area/ci]",closed,3,2022/2/6,completed
+I430,juice-shop/juice-shop,https://api.github.com/repos/juice-shop/juice-shop/issues/1759,[:bug:] docker build crashes due to @fortawesome version update 5.14.0 -> 6.0.0,[bug],closed,10,2022/2/8,completed
+I431,InfiniTimeOrg/InfiniTime,https://api.github.com/repos/InfiniTimeOrg/InfiniTime/issues/992,Docker build fails -- no module  cbor  when running tools/mcuboot/imgtool/boot_record.py.  Importing  cbor2  instead works.,[bug],closed,13,2022/2/10,completed
+I432,envoyproxy/envoy-build-tools,https://api.github.com/repos/envoyproxy/envoy-build-tools/issues/163,devcontainer docker build is broken due to old signing key,"[bug, area/build, area/docker]",closed,6,2022/2/12,completed
+I433,pytorch/TensorRT,https://api.github.com/repos/pytorch/TensorRT/issues/869,:bug: [Bug] Docker build fails while building libtorchtrc,[bug],closed,6,2022/2/14,completed
+I435,pytorch/TensorRT,https://api.github.com/repos/pytorch/TensorRT/issues/875,:bug: [Bug] Docker build fails,"[bug, No Activity]",closed,6,2022/2/16,completed
+I436,paperless-ngx/paperless-ngx,https://api.github.com/repos/paperless-ngx/paperless-ngx/issues/150,[Bug] Docker Build armv7 fails,[bug],closed,8,2022/2/25,completed
+I438,backstage/backstage,https://api.github.com/repos/backstage/backstage/issues/9983,[TechDocs] Docker build fails on k8s,"[bug, area:techdocs, stale]",closed,18,2022/3/4,completed
+I439,aws-amplify/amplify-hosting,https://api.github.com/repos/aws-amplify/amplify-hosting/issues/2618,Docker build fails on latest image,"[bug, backend-builds, archived]",closed,4,2022/3/4,completed
+I440,OWASP/SecurityShepherd,https://api.github.com/repos/OWASP/SecurityShepherd/issues/595,"Docker build passes, but exeption during Tomcat startup: Invalid keystore format",[Bug],closed,6,2022/3/11,completed
+I443,microsoft/navcontainerhelper,https://api.github.com/repos/microsoft/navcontainerhelper/issues/2360,Docker Build failed with exit code 255,"[bug, Fix Ready, Ships in a future version]",closed,5,2022/3/22,completed
+I446,iotexproject/iotex-core,https://api.github.com/repos/iotexproject/iotex-core/issues/3232,docker build fail,[bug],closed,4,2022/3/25,completed
+I448,NVIDIA/NeMo,https://api.github.com/repos/NVIDIA/NeMo/issues/3905,docker build error,[bug],closed,5,2022/3/29,completed
+I453,tailscale/tailscale,https://api.github.com/repos/tailscale/tailscale/issues/4421,Android Docker Build Failure,"[needs-triage, bug]",closed,3,2022/4/17,completed
+I456,paperless-ngx/paperless-ngx,https://api.github.com/repos/paperless-ngx/paperless-ngx/issues/841,[BUG] Regression in docker build,"[bug, deployment]",closed,4,2022/4/29,completed
+I457,15knots/cmake4eclipse,https://api.github.com/repos/15knots/cmake4eclipse/issues/172,docker build and additional include pathes: eclipse doesn t find the includes,[bug],closed,10,2022/5/2,completed
+I460,searxng/searxng,https://api.github.com/repos/searxng/searxng/issues/1225,docker build error,[bug],closed,6,2022/5/23,completed
+I461,hummingbot/hummingbot,https://api.github.com/repos/hummingbot/hummingbot/issues/5346,Client - Unable to start due to TypeError on docker build,[bug],closed,6,2022/5/27,completed
+I462,pandas-dev/pandas,https://api.github.com/repos/pandas-dev/pandas/issues/47163,BUG: Docker build without cache leads to error due to identity issues,"[Bug, Needs Triage]",closed,4,2022/5/29,completed
+I466,paperless-ngx/paperless-ngx,https://api.github.com/repos/paperless-ngx/paperless-ngx/issues/1146,[BUG] Docker build fails on main branch,"[bug, deployment]",closed,8,2022/6/19,completed
+I467,cmu-db/benchbase,https://api.github.com/repos/cmu-db/benchbase/issues/193,docker build image --> addgroup: The GID `0  is already in use,[bug],closed,4,2022/6/21,completed
+I469,goreleaser/goreleaser,https://api.github.com/repos/goreleaser/goreleaser/issues/3187,Parallel docker builds result in duplicate name error,[bug],closed,13,2022/6/23,completed
+I470,indilib/indi,https://api.github.com/repos/indilib/indi/issues/1682,Fix INDI Docker build,[bug],closed,4,2022/6/27,completed
+I472,NVIDIA/DeepLearningExamples,https://api.github.com/repos/NVIDIA/DeepLearningExamples/issues/1167,[ELECTRA / TF2] docker build error: returned a non-zero code 1,[bug],closed,3,2022/7/1,completed
+I476,pamidur/aspect-injector,https://api.github.com/repos/pamidur/aspect-injector/issues/188,Docker build/ dotnet build in linux: AspectInjector not found,[bug],closed,7,2022/7/18,completed
+I478,bentoml/BentoML,https://api.github.com/repos/bentoml/BentoML/issues/2820,bug: docker build issue with GCP,[bug],closed,9,2022/7/27,completed
+I479,DarkflameUniverse/DarkflameServer,https://api.github.com/repos/DarkflameUniverse/DarkflameServer/issues/721,BUG: Docker build CMake error,"[bug, build, A-docker, P-Fixer]",closed,3,2022/8/7,completed
+I480,BurningOKR/BurningOKR,https://api.github.com/repos/BurningOKR/BurningOKR/issues/183,docker build frontend  Consider upgrading your application to use a more recent version of Angular.,"[bug, resolved]",closed,8,2022/8/10,completed
+I483,robertmartin8/PyPortfolioOpt,https://api.github.com/repos/robertmartin8/PyPortfolioOpt/issues/476,Docker build failed due to dir name and Dockerfile mismatch,[bug],closed,3,2022/8/24,completed
+I484,openstreetmap/openstreetmap-website,https://api.github.com/repos/openstreetmap/openstreetmap-website/issues/3662,Docker builds failing without mini_portile2,"[bug, dx]",closed,3,2022/8/24,completed
+I485,graphsense/graphsense-dashboard,https://api.github.com/repos/graphsense/graphsense-dashboard/issues/341,docker-compose build does not work,[bug],closed,7,2022/8/30,completed
+I487,hyperledger/iroha,https://api.github.com/repos/hyperledger/iroha/issues/2690,[BUG]: Local `docker build` fails on M1 Mac,"[Bug, iroha2, Dev defect]",closed,23,2022/9/2,completed
+I491,Sygil-Dev/sygil-webui,https://api.github.com/repos/Sygil-Dev/sygil-webui/issues/820,[Bug]: Docker build fails with error  The repository  https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64  Release  does not have a Release file.,[bug],closed,6,2022/9/8,completed
+I493,game-ci/unity-builder,https://api.github.com/repos/game-ci/unity-builder/issues/433,Docker Build Path Problem,[bug],closed,3,2022/9/15,completed
+I500,pyload/pyload,https://api.github.com/repos/pyload/pyload/issues/4204,Docker build fails building cryptography wheel,"[bug, pyLoad Next]",closed,6,2022/10/9,completed
+I502,triton-inference-server/server,https://api.github.com/repos/triton-inference-server/server/issues/4981,Docker build fail on windows,[bug],closed,10,2022/10/13,completed
+I504,sipcapture/heplify-server,https://api.github.com/repos/sipcapture/heplify-server/issues/507,"Fresh Docker build, server restarting in constant loop",[bug],closed,7,2022/10/20,completed
+I505,szabodanika/microbin,https://api.github.com/repos/szabodanika/microbin/issues/82,docker build action failed,"[bug, docker]",closed,3,2022/10/23,completed
+I509,toddsundsted/ktistec,https://api.github.com/repos/toddsundsted/ktistec/issues/18,docker build fails with Error: undefined method  modification_time,[bug],closed,6,2022/11/7,completed
+I512,apache/plc4x,https://api.github.com/repos/apache/plc4x/issues/615,Docker build not working - mvnw permission denied etc,"[bug, MAJOR, docker]",closed,8,2022/11/9,completed
+I515,mastodon/mastodon,https://api.github.com/repos/mastodon/mastodon/issues/20712,ERROR [stage-1  9/10] during docker-compose build of 4.0.0,[bug],closed,6,2022/11/14,completed
+I516,vapor/vapor,https://api.github.com/repos/vapor/vapor/issues/2913,docker build failure,[bug],closed,8,2022/11/15,completed
+I517,icaruseu/mom-ca,https://api.github.com/repos/icaruseu/mom-ca/issues/1119,Docker build not working,"[bug, eXist]",closed,13,2022/11/16,completed
+I518,game-ci/documentation,https://api.github.com/repos/game-ci/documentation/issues/348,Docker build for iOS target sometime freeze on UnityShaderCompilation,[bug],closed,4,2022/11/17,completed
+I519,libreddit/libreddit,https://api.github.com/repos/libreddit/libreddit/issues/641,:bug: Bug Report: aarch64 Docker builds have been failing for 6 months,[bug],closed,4,2022/11/18,completed
+I522,inventree/InvenTree,https://api.github.com/repos/inventree/InvenTree/issues/3996,[Bug] Docker builds are currently failing,"[bug, CI, docker]",closed,14,2022/11/26,completed
+I523,mattermost/focalboard,https://api.github.com/repos/mattermost/focalboard/issues/4249,Bug: docker build returns non-zero code: 2 on EC2,"[Bug, Sev/2]",closed,10,2022/11/26,completed
+I524,eclipse-emfcloud/coffee-editor,https://api.github.com/repos/eclipse-emfcloud/coffee-editor/issues/481,Project explorer icons are missing in docker build,[bug],closed,3,2022/11/28,completed
+I528,robertmartin8/PyPortfolioOpt,https://api.github.com/repos/robertmartin8/PyPortfolioOpt/issues/507,Docker build failed due to obsolete pip and poetry versions were hard coded on docker/Dockerfile,[bug],closed,3,2022/12/24,completed
+I530,deepset-ai/haystack,https://api.github.com/repos/deepset-ai/haystack/issues/2086,Requirements.txt mssing so cannot run docker-compose build,"[type:bug, topic:docker, topic:dependencies]",closed,5,2022/1/30,completed
+I536,polarismesh/polaris,https://api.github.com/repos/polarismesh/polaris/issues/886,docker-compose build polaris-server image error,[bug],closed,3,2023/1/5,completed
+I538,actions/runner-images,https://api.github.com/repos/actions/runner-images/issues/6887,"docker builds fail on ubuntu 20.04 agents, but succeed on 18.04 agents.","[bug, OS: Ubuntu, bug report]",closed,5,2023/1/6,completed
+I539,apache/arrow-ballista,https://api.github.com/repos/apache/arrow-ballista/issues/589,docker build fails,[bug],closed,3,2023/1/8,completed
+I540,kubeshop/tracetest,https://api.github.com/repos/kubeshop/tracetest/issues/1791,Typescript errors when trying to run docker build web,"[bug, triage]",closed,3,2023/1/9,completed
+I543,oxsecurity/megalinter,https://api.github.com/repos/oxsecurity/megalinter/issues/2256,Docker build: Call Github API with authentication,[bug],closed,8,2023/1/12,completed
+I545,oliverw/miningcore,https://api.github.com/repos/oliverw/miningcore/issues/1584,MacOS docker build failure,[bug],closed,3,2023/1/14,completed
+I547,TobyBaril/EarlGrey,https://api.github.com/repos/TobyBaril/EarlGrey/issues/35,Docker build instructions fail,[bug],closed,3,2023/1/17,completed
+I549,rustdesk/rustdesk,https://api.github.com/repos/rustdesk/rustdesk/issues/3008,Docker build error,[bug],closed,3,2023/1/30,completed
+I550,devlooped/GitInfo,https://api.github.com/repos/devlooped/GitInfo/issues/216,Missing Git Information with Docker build,[bug],closed,3,2023/1/31,completed
+I553,Kav-K/GPTDiscord,https://api.github.com/repos/Kav-K/GPTDiscord/issues/141,Docker build fails on v10.0.0,"[bug, help wanted, good first issue, help-wanted-important]",closed,3,2023/2/5,completed
+I554,dotnet/dotnet-docker,https://api.github.com/repos/dotnet/dotnet-docker/issues/4388,Enable using docker build `--platform` switch (easily),"[bug, area-infrastructure]",closed,43,2023/2/6,completed
+I556,tsightler/ring-mqtt,https://api.github.com/repos/tsightler/ring-mqtt/issues/552,Bug: Latest docker build crashes with s6-overlay-suexec: not found,[bug],closed,3,2023/2/11,completed
+I560,openseedbox/openseedbox,https://api.github.com/repos/openseedbox/openseedbox/issues/114,Backend: multiparch Docker build fails to restart torrent backend on non `amd64` platforms,"[bug, backend]",closed,3,2023/2/18,completed
+I566,actions/runner,https://api.github.com/repos/actions/runner/issues/2476,Docker build command not using environment variables (such as HTTP_PROXY),[bug],closed,3,2023/3/7,completed
+I567,AykutSarac/jsoncrack.com,https://api.github.com/repos/AykutSarac/jsoncrack.com/issues/316,[BUG]: Docker build failing because no package-lock.json or npm-shrinkwrap.json present,[bug],closed,4,2023/3/9,completed
+I568,mattermost/focalboard,https://api.github.com/repos/mattermost/focalboard/issues/4637,Bug: Docker Build v7.8.2 Fails,[Bug],closed,4,2023/3/13,completed
+I570,openshwprojects/OpenBK7231T_App,https://api.github.com/repos/openshwprojects/OpenBK7231T_App/issues/732,"Docker build succeeds, but outputs directory empty","[bug, help wanted, released]",closed,6,2023/3/15,completed
+I573,web-infra-dev/rspack,https://api.github.com/repos/web-infra-dev/rspack/issues/2355,ci: docker build step is not cached,[bug],closed,5,2023/3/20,completed
+I580,yairm210/Unciv,https://api.github.com/repos/yairm210/Unciv/issues/9207,Docker build error  /src/desktop/packr/Unciv.jar : not found,[bug],closed,4,2023/4/17,completed
+I581,bitcoin/bitcoin,https://api.github.com/repos/bitcoin/bitcoin/issues/27492,ci: failure in Docker build step,"[Bug, Tests, Upstream]",closed,10,2023/4/19,completed
+I582,AykutSarac/jsoncrack.com,https://api.github.com/repos/AykutSarac/jsoncrack.com/issues/330,[BUG]: Problems when run docker build in some tags,[bug],closed,4,2023/4/20,completed
+I584,pyload/pyload,https://api.github.com/repos/pyload/pyload/issues/4287,Docker build failing with AttributeError: module  jinja2.ext  has no attribute  autoescape,"[bug, pyLoad Next]",closed,3,2023/4/27,completed
+I588,yairm210/Unciv,https://api.github.com/repos/yairm210/Unciv/issues/9403,Docker build error,[bug],closed,3,2023/5/18,completed
+I589,MPC-SoK/frameworks,https://api.github.com/repos/MPC-SoK/frameworks/issues/64,mp-spdz docker build error,[bug],closed,4,2023/5/25,completed
+I591,SPARQL-Anything/sparql.anything,https://api.github.com/repos/SPARQL-Anything/sparql.anything/issues/370,Docker build failure?,[Bug],closed,6,2023/5/31,completed
+I594,xtekky/gpt4free,https://api.github.com/repos/xtekky/gpt4free/issues/643,Docker build error (problem in Dockerfile),[bug],closed,4,2023/6/4,completed
+I596,testcontainers/testcontainers-dotnet,https://api.github.com/repos/testcontainers/testcontainers-dotnet/issues/914,[Bug]: Docker Build Fails only with Testcontainers,[bug],closed,7,2023/6/6,completed
+I597,inventree/InvenTree,https://api.github.com/repos/inventree/InvenTree/issues/4999,Fix broken docker build,"[bug, CI, docker]",closed,5,2023/6/8,completed
+I602,tabler/tabler,https://api.github.com/repos/tabler/tabler/issues/1627,[BUG] Docker Build Fails,[bug],closed,3,2023/6/12,completed
+I605,mudler/LocalAI,https://api.github.com/repos/mudler/LocalAI/issues/610,Docker build failed,"[bug, need-more-information]",closed,3,2023/6/16,completed
+I609,backstage/backstage,https://api.github.com/repos/backstage/backstage/issues/18370,:bug: Bug Report: docker build error on node-gyp rebuild with isolated-vm while yarn install phase,[bug],closed,37,2023/6/21,completed
+I610,reworkd/AgentGPT,https://api.github.com/repos/reworkd/AgentGPT/issues/850,:bug: Errors when running docker-compose build,[bug],closed,17,2023/6/23,completed
+I611,mudler/LocalAI,https://api.github.com/repos/mudler/LocalAI/issues/662,"Error: Docker build failed, `gzip: stdin: not in gzip format`",[bug],closed,7,2023/6/23,completed
+I613,ConduitIO/conduit,https://api.github.com/repos/ConduitIO/conduit/issues/1107,Docker builds failing,[bug],closed,3,2023/7/10,completed
+I615,inventree/InvenTree,https://api.github.com/repos/inventree/InvenTree/issues/5214, arm/v7  architecture missing in current docker builds?,"[bug, docker, setup]",closed,30,2023/7/10,completed
+I616,garden-io/garden,https://api.github.com/repos/garden-io/garden/issues/4815,0.13: [Bug]: local-docker build fails with ENOENT,"[bug, 0.13]",closed,3,2023/7/12,completed
+I618,Project-MONAI/MONAI,https://api.github.com/repos/Project-MONAI/MONAI/issues/6714,docker build pip deps issue,[bug],closed,3,2023/7/13,completed
+I619,jupyterhub/jupyter-remote-desktop-proxy,https://api.github.com/repos/jupyterhub/jupyter-remote-desktop-proxy/issues/47,Desktop not working in Docker build,[bug],closed,16,2023/7/15,completed
+I623,connectrpc/connect-go,https://api.github.com/repos/connectrpc/connect-go/issues/555,Checksum mismatch creating docker build,[bug],closed,8,2023/7/27,completed
+I624,hyperledger/fabric,https://api.github.com/repos/hyperledger/fabric/issues/4336,Failed to generate platform-specific docker build: Error returned from build: 1  no required module provides package github.com/fabcar: go.mod file not found in current directory or any parent directory; see  go help modules,[bug],closed,3,2023/7/28,completed
+I630,void-linux/void-packages,https://api.github.com/repos/void-linux/void-packages/issues/45780,`docker build` fails with  ERROR: http: invalid Host header  with docker-buildx-0.10.3_3,"[bug, needs-testing]",closed,3,2023/8/26,completed
+I631,mastodon/mastodon,https://api.github.com/repos/mastodon/mastodon/issues/26820,Docker build of 4.2-beta fails with GLIBC version mismatch error in the ruby-jemalloc container,"[bug, status/to triage]",closed,5,2023/9/6,completed
+I634,backstage/backstage,https://api.github.com/repos/backstage/backstage/issues/20113,:bug: Bug Report: Docker Build Failure,[bug],closed,6,2023/9/22,completed
+I635,kanidm/kanidm,https://api.github.com/repos/kanidm/kanidm/issues/2148,Can t build kanidmd using the Ubuntu docker builder scripts,[bug],closed,4,2023/9/25,completed
+I637,frappe/frappe_docker,https://api.github.com/repos/frappe/frappe_docker/issues/1237,Docker build fails for custom image,[bug],closed,7,2023/10/4,completed
+I640,super-linter/super-linter,https://api.github.com/repos/super-linter/super-linter/issues/4735,Docker builds have run out of space,[bug],closed,5,2023/10/14,completed
+I641,lyft/cartography,https://api.github.com/repos/lyft/cartography/issues/1269,Docker build fails due to dependancy issue,[bug],closed,6,2023/10/19,completed
+I643,reworkd/AgentGPT,https://api.github.com/repos/reworkd/AgentGPT/issues/1334,Docker build fail,[bug],closed,3,2023/10/21,completed
+I645,mitre/caldera,https://api.github.com/repos/mitre/caldera/issues/2837,Docker build doesn t work on aarch64,"[bug, no-issue-activity]",closed,3,2023/10/24,completed
+I647,inventree/InvenTree,https://api.github.com/repos/inventree/InvenTree/issues/5825,Docker builds failing due to recent PR,"[bug, CI, pricing, docker]",closed,9,2023/10/31,completed
+I648,goreleaser/goreleaser,https://api.github.com/repos/goreleaser/goreleaser/issues/4392,docker build failed: exit status 1: ERROR: use `docker --context=default buildx` to switch to context  default,[bug],closed,13,2023/10/31,completed
+I651,macOScontainers/rund,https://api.github.com/repos/macOScontainers/rund/issues/26,docker build stuck forever on context creation,[bug],closed,4,2023/11/10,completed
+I652,vaadin/platform,https://api.github.com/repos/vaadin/platform/issues/4680,cannot add vaadin pro licence to docker build,[bug],closed,3,2023/11/10,completed
+I658,wolveix/satisfactory-server,https://api.github.com/repos/wolveix/satisfactory-server/issues/217,Docker build currently crashes with the newest,[bug],closed,4,2023/11/24,completed
+I660,mastodon/mastodon,https://api.github.com/repos/mastodon/mastodon/issues/28224,Docker build fails: json-canonicalization 0.3.2 is missing,"[bug, status/to triage]",closed,4,2023/12/4,completed
+I663,homuler/MediaPipeUnityPlugin,https://api.github.com/repos/homuler/MediaPipeUnityPlugin/issues/913,docker build error,[type:bug],closed,3,2023/6/14,completed
