@@ -1,0 +1,475 @@
+﻿source,id,url,title,build type,inner category,leaf category
+GH,I1,https://github.com/hashicorp/packer/issues/901,Docker build hangs Waiting for exit code to appear for remote command...,Dockerfile,Environment error,Platform/runtime incompatility
+GH,I2,https://github.com/hashicorp/packer/issues/1095,Docker build leaves container behind if error occurs,Dockerfile,Dependency error,Download error
+GH,I3,https://github.com/ansible/ansible/issues/7331,Can t see docker build output when run from an ansible playbook,Dockerfile,Others,Others
+GH,I4,https://github.com/sbt/sbt-native-packager/issues/310,Docker Build Fail,Dockerfile,Environment error,Platform/runtime incompatility
+GH,I11,https://github.com/CiscoCloud/distributive/issues/99,docker build fails due to incorrect time,Dockerfile,Security error,Authentication error
+GH,I20,https://github.com/AdaptiveConsulting/ReactiveTraderCloud/issues/165,docker build failing with last docker toolbox,Dockerfile,Environment error,Platform/runtime incompatility
+GH,I30,https://github.com/telefonicaid/fiware-orion/issues/2470,gmock repository changed and Docker build fails,Dockerfile,Dependency error,Findability error
+GH,I37,https://github.com/numenta/nupic-legacy/issues/3026,coreos-vagrant docker build error,Dockerfile,Execution error,Compilation error
+GH,I45,https://github.com/mastodon/mastodon/issues/869,Failing docker-compose build,Docker-compose,Configuration error,Invalid compose file
+GH,I53,https://github.com/takeoff-env/takeoff/issues/12,Windows docker-compose build fails,Docker-compose,Environment error,Platform/runtime incompatility
+GH,I54,https://github.com/rapid7/metasploit-framework/issues/9019,Travis docker-compose Build Jobs failed with timeouts,Docker-compose,Configuration error,Tool/plugin setting error
+GH,I55,https://github.com/SpeciesFileGroup/taxonworks/issues/250,docker-compose build/up fails with migration error,Docker-compose,Others,Others
+GH,I56,https://github.com/nativefier/nativefier/issues/461,Docker build fails on failing to parse mime-db/db.json,Dockerfile,Execution error,Parse error
+GH,I57,https://github.com/reactql/kit/issues/111,Docker build fails when the source references a *.png in the static folder,Dockerfile,Resource error,File inaccessibility error
+GH,I61,https://github.com/adoptium/temurin-build/issues/194,docker builds failing,Dockerfile,Resource error,File inaccessibility error
+GH,I63,https://github.com/sudomesh/sudowrt-firmware/issues/119,docker build system eats up disk space on local builds machine,Dockerfile,Resource error,Redundant files
+GH,I67,https://github.com/badges/shields/issues/1435,failed docker build due to missing git,Dockerfile,Dependency error,Findability error
+GH,I74,https://github.com/nexe/nexe/issues/467,Failed to compile without a TTY (example: docker build),Dockerfile,Execution error,Compilation error
+GH,I76,https://github.com/adoptium/temurin-build/issues/273,Docker builds do not honour the --ssh flag being passed through,Dockerfile,Security error,Authentication error
+GH,I77,https://github.com/adoptium/temurin-build/issues/274,openjdk-build/docker builds fail because of repo location and then further failures.,Dockerfile,Resource error,Directory/path error
+GH,I81,https://github.com/openfaas/faas-cli/issues/392,Build returns docker build requires exactly 1 argument with particular build-arg values,Dockerfile,Configuration error,Invalid build argument
+GH,I82,https://github.com/serverless/serverless-python-requirements/issues/184,Docker build fails if space in Path,Dockerfile,Configuration error,Invalid build argument
+GH,I83,https://github.com/heketi/heketi/issues/1186,docker builds failing,Dockerfile,Others,Others
+GH,I84,https://github.com/ParallelSSH/ssh2-python/issues/25,Docker builds not working with older versions of libssh2 and EMBEDDED_LIB=0,Dockerfile,Dependency error,Unsatisfiable constraints
+GH,I85,https://github.com/buildkite/agent/issues/778,legacy docker-compose builds with multiple commands broken in v3,Docker-compose,Resource error,File inaccessibility error
+GH,I88,https://github.com/Glavin001/atom-beautify/issues/2190,Docker version check broke on nightly docker build,Dockerfile,Environment error,Invalid Docker daemon
+GH,I95,https://github.com/Hydrospheredata/hydro-serving/issues/215,Docker builds images even on unsuccessful pip installation,Dockerfile,Others,Others
+GH,I96,https://github.com/OWASP/Nettacker/issues/188,Docker build with alpine ERROR: unsatisfiable constraints,Dockerfile,Dependency error,Unsatisfiable constraints
+GH,I99,https://github.com/aviaviavi/toodles/issues/54,docker build issues since 1.0.0,Dockerfile,Execution error,Compilation error
+GH,I102,https://github.com/DangerOnTheRanger/maniwani/issues/33,Docker-compose build fails on old versions of docker and docker compose (Fedora),Docker-compose,Execution error,Parse error
+GH,I105,https://github.com/yggdrasil-network/yggdrasil-go/issues/263,Docker build fails: GCC missing,Dockerfile,Resource error,File inaccessibility error
+GH,I106,https://github.com/habitat-sh/builder/issues/255,Docker build failed when trying to publish to Docker Hub Container Registry,Dockerfile,Execution error,Connection exception
+GH,I107,https://github.com/jellyfin/jellyfin/issues/425,docker build fails in latest dev branch,Dockerfile,Others,Others
+GH,I108,https://github.com/writefreely/writefreely/issues/57,Docker build doesn t compile static assets,Dockerfile,Resource error,File inaccessibility error
+GH,I109,https://github.com/OmerTu/GoogleHomeKodi/issues/203,Problem Docker Build,Dockerfile,Execution error,Parse error
+GH,I112,https://github.com/OmniDB/OmniDB/issues/838,Docker build .,Dockerfile,Dependency error,Findability error
+GH,I115,https://github.com/jupyter-server/enterprise_gateway/issues/581,`zmq.h` and `linux/tipc.h`: No suchfile or directory in docker build,Dockerfile,Resource error,File inaccessibility error
+GH,I121,https://github.com/tilt-dev/tilt/issues/1516,Cannot see docker build errors,Dockerfile,Configuration error,Tool/plugin setting error
+GH,I122,https://github.com/Azure/acr-builder/issues/441,Set working directory of docker build relative to task working directory,Dockerfile,Resource error,File inaccessibility error
+GH,I123,https://github.com/coinbase/terraform-landscape/issues/96,Dockerfile/docker build broken,Dockerfile,Dependency error,Unsatisfiable constraints
+GH,I124,https://github.com/tilt-dev/tilt/issues/1639,"[docker-compose] when using a docker caching proxy, docker build never finishes",Docker-compose,Environment error,Cache issue
+GH,I127,https://github.com/openwisp/openwisp-controller/issues/103,[bug] Docker build error,Dockerfile,Resource error,File inaccessibility error
+GH,I128,https://github.com/nunomaduro/phpinsights/issues/166,Automatic docker build has failed,Dockerfile,Security error,Authentication error
+GH,I131,https://github.com/mindsdb/mindsdb/issues/255,Docker build failed,Dockerfile,Dependency error,Unsatisfiable constraints
+GH,I132,https://github.com/horovod/horovod/issues/1217,MXNet cu100-pre broke docker build on CPU machine,Dockerfile,Others,Others
+GH,I133,https://github.com/osrf/subt/issues/132,Cannot run docker build in SystemSetupDocker,Dockerfile,Security error,Authentication error
+GH,I134,https://github.com/hashicorp/packer/issues/7938,Docker builder failing to build images on windows when mounting a volume in a container,Dockerfile,Environment error,Invalid Docker daemon
+GH,I135,https://github.com/trailofbits/deepstate/issues/225,"Docker Build Gets Stuck, Fails",Dockerfile,Dependency error,Unsatisfiable constraints
+GH,I138,https://github.com/adoptium/temurin-build/issues/1216,Docker builds failing on MacOS,Dockerfile,Resource error,File inaccessibility error
+GH,I141,https://github.com/axa-group/Parsr/issues/53,Error on docker-compose build,Docker-compose,Dependency error,Unsatisfiable constraints
+GH,I148,https://github.com/github/semantic/issues/321,Docker Build Error,Dockerfile,Dependency error,Unsatisfiable constraints
+GH,I151,https://github.com/coder/code-server/issues/1096,Docker Build doesn t work on AWS Ubuntu 18.04,Dockerfile,Dependency error,Unsatisfiable constraints
+GH,I155,https://github.com/ScottBrenner/cfn-lint-action/issues/4,Docker build failed,Dockerfile,Resource error,File inaccessibility error
+GH,I157,https://github.com/mlflow/mlflow/issues/2101,[BUG] Docker build fails on unable to satisfy requirement for sphinx 2.2.1,Dockerfile,Dependency error,Unsatisfiable constraints
+GH,I158,https://github.com/iv-org/invidious/issues/917,Invalid memory access (signal 11) at address 0x10000001b on Docker build,Dockerfile,Resource error,Redundant files
+GH,I159,https://github.com/BishopFox/sliver/issues/136,Docker build is failing,Dockerfile,Others,Others
+GH,I162,https://github.com/scorelab/Bassa/issues/832,broken docker builds for api server,Docker-compose,Dependency error,Other dependency error
+GH,I163,https://github.com/jellyfin/jellyfin/issues/2126,[bug] Transcode error on linux/arm docker build,Dockerfile,Resource error,File inaccessibility error
+GH,I166,https://github.com/tensorflow/serving/issues/1363,Docker build issue with r1.14 branch,Dockerfile,Execution error,Parse error
+GH,I167,https://github.com/jupyter/docker-stacks/issues/892,conda update numpy breaks Docker build,Dockerfile,Dependency error,Unsatisfiable constraints
+GH,I168,https://github.com/spotify/heroic/issues/577,docker builds broken in 0.10.x,Dockerfile,Dependency error,Findability error
+GH,I171,https://github.com/IUNetSci/BotSlayer-CE/issues/40,Docker build fails,Dockerfile,Execution error,Parse error
+GH,I173,https://github.com/taichi-dev/taichi/issues/408,Docker build is broken due to PPA removed,Dockerfile,Dependency error,Download error
+GH,I176,https://github.com/luizperes/simdjson_nodejs/issues/22,Debian Stretch 9.11 Docker Build Fails,Dockerfile,Resource error,File inaccessibility error
+GH,I177,https://github.com/department-of-veterans-affairs/vets-api/issues/3891,Docker builds fail when clamav updates take too long,Dockerfile,Execution error,Connection exception
+GH,I178,https://github.com/BitGo/BitGoJS/issues/667,docker build - invalid bin entry for package msgpack-lite,Dockerfile,Dependency error,Unsatisfiable constraints
+GH,I179,https://github.com/pytorch/serve/issues/31,docker build failing on line 27,Dockerfile,Resource error,File inaccessibility error
+GH,I180,https://github.com/SyneRBI/SIRF-SuperBuild/issues/331,Docker build fails for Travis,Dockerfile,Others,Others
+GH,I182,https://github.com/oauth2-proxy/oauth2-proxy/issues/417,Golangci-lint v1.17.1 docker build failure on OdroidHC2,Dockerfile,Dependency error,Unsatisfiable constraints
+GH,I183,https://github.com/openwisp/openwisp-controller/issues/164,Docker Build Error,Docker-compose,Execution error,Connection exception
+GH,I185,https://github.com/apache/mxnet/issues/17819,Why is nvcc not installed along with cuda in mxnet docker builds?,Dockerfile,Dependency error,Findability error
+GH,I186,https://github.com/adoptium/infrastructure/issues/1201,docker build machine docker-scaleway-ubuntu1604-armv7l-1 is out of space,Dockerfile,Resource error,Redundant files
+GH,I187,https://github.com/recommenders-team/recommenders/issues/1066,[BUG] Docker build stuck at final 1/2,Dockerfile,Configuration error,Tool/plugin setting error
+GH,I188,https://github.com/LinuxForHealth/FHIR/issues/808,Docker build failure,Dockerfile,Resource error,File inaccessibility error
+GH,I191,https://github.com/backstage/backstage/issues/436,docker build of latest source not working,Dockerfile,Resource error,File inaccessibility error
+GH,I195,https://github.com/microsoft/vscode-docker/issues/1824,Docker Build Image Issue no such file,Dockerfile,Resource error,File inaccessibility error
+GH,I197,https://github.com/ros2/ci/issues/423,Docker builds fail on top of current Win 10 1909,Dockerfile,Environment error,Platform/runtime incompatility
+GH,I199,https://github.com/coder/code-server/issues/1505,3.0.2-arm64 Docker build broken?,Dockerfile,Execution error,Parse error
+GH,I201,https://github.com/SyneRBI/SIRF-SuperBuild/issues/379,docker builds fail,Dockerfile,Security issue,Permission error
+GH,I203,https://github.com/Unity-Technologies/ml-agents/issues/3880,Docker build error: pip out of date,Dockerfile,Resource error,File inaccessibility error
+GH,I205,https://github.com/doccano/doccano/issues/763,On first docker build: core-js not found,Docker-compose,Dependency error,Findability error
+GH,I206,https://github.com/adoptium/temurin-build/issues/1745,When executing a docker build I m not guided to where I get the resulting binary,Dockerfile,Resource error,File inaccessibility error
+GH,I210,https://github.com/chrisvel/wreeto_official/issues/22,Docker build fails on arm platform - Failed to build bgcrypt gem native extension,Dockerfile,Execution error,Parse error
+GH,I212,https://github.com/recommenders-team/recommenders/issues/1121,[BUG] Docker build failed at Failed to build xlearn,Dockerfile,Resource error,File inaccessibility error
+GH,I213,https://github.com/aws/aws-cdk/issues/8518,Docker build fails for creating local CDK dev environment,Dockerfile,Resource error,Directory/path error
+GH,I221,https://github.com/Attendize/Attendize/issues/822,[BUG] Docker build is failing when executing php artisan migrate,Dockerfile,Execution error,Connection exception
+GH,I223,https://github.com/splunk/eventgen/issues/403,"[BUG] Docker build is failing, compilation in Docker and out of Docker is failing too",Dockerfile,Execution error,Compilation error
+GH,I224,https://github.com/RestyaPlatform/board/issues/4119,Docker build problems,Docker-compose,Execution error,Parse error
+GH,I226,https://github.com/hyperledger/bevel/issues/866,Docker build fails while creating custom agent for Aries,Dockerfile,Security error,Authentication error
+GH,I227,https://github.com/microsoft/vscode-remote-release/issues/3411,[Feature request] More verbose output on docker-compose build errors,Docker-compose,Environment error,Platform/runtime incompatility
+GH,I228,https://github.com/OpenLiberty/ci.gradle/issues/506,Gradle plugin does not display docker build error,Dockerfile,Resource error,File inaccessibility error
+GH,I229,https://github.com/IntersectMBO/cardano-addresses/issues/51,Stack setup fails in Docker build,Dockerfile,Resource error,File inaccessibility error
+GH,I239,https://github.com/kermitt2/grobid/issues/628,Docker build broken in current master,Dockerfile,Resource error,File inaccessibility error
+GH,I243,https://github.com/trustwallet/wallet-core/issues/1105,Docker build fails,Dockerfile,Execution error,Compilation error
+GH,I245,https://github.com/CircleCI-Public/aws-ecr-orb/issues/112,"Docker build error invalid argument *****/repo:latest for -t, --tag flag: invalid reference format",Dockerfile,Configuration error,Invalid build argument
+GH,I246,https://github.com/NVIDIA-Merlin/NVTabular/issues/307,[BUG] docker build fails for examples/tensorflow/docker/Dockerfile,Dockerfile,Dependency error,Unsatisfiable constraints
+GH,I247,https://github.com/aws/aws-cdk/issues/10438,[core] Full docker build no longer works,Dockerfile,Execution error,Connection exception
+GH,I248,https://github.com/espnet/espnet/issues/2508,Docker build error,Dockerfile,Execution error,Parse error
+GH,I250,https://github.com/NVIDIA/DeepLearningExamples/issues/697,[DLRM/PyTorch] Docker build error,Dockerfile,Resource error,File inaccessibility error
+GH,I251,https://github.com/graphite-project/docker-graphite-statsd/issues/156,[BUG] docker build fails because of go version dependency,Dockerfile,Dependency error,Unsatisfiable constraints
+GH,I252,https://github.com/nccgroup/ScoutSuite/issues/882,Docker build broken,Docker-compose,Resource error,File inaccessibility error
+GH,I255,https://github.com/zalando/spilo/issues/508,docker build of spilo image is failing,Dockerfile,Dependency error,Unsatisfiable constraints
+GH,I256,https://github.com/nccgroup/ScoutSuite/issues/905,Docker build broken on master still,Docker-compose,Resource error,File inaccessibility error
+GH,I257,https://github.com/oss-review-toolkit/ort/issues/3226,Docker build failed - ERROR [stage-1 6/6] RUN tar xf /opt/ort.tar -C /opt/ort --strip-comp 95.8s,Dockerfile,Dependency error,Findability error
+GH,I263,https://github.com/excalidraw/excalidraw/issues/2304,docker build failing,Dockerfile,Others,Others
+GH,I264,https://github.com/AdoptOpenJDK/openjdk-docker/issues/464,Investigate docker build job failures in the last few days,Dockerfile,Environment error,Platform/runtime incompatility
+GH,I265,https://github.com/terraforming-mars/terraforming-mars/issues/1899,Docker build fails,Dockerfile,Dependency error,Findability error
+GH,I266,https://github.com/Sifchain/sifnode/issues/278,Running this script gives an error at the end of the docker build:,Docker-compose,Configuration error,Invalid compose file
+GH,I268,https://github.com/OpenLiberty/ci.maven/issues/1045,Docker build output logged as ERROR when run liberty:devc on Win VM,Dockerfile,Environment error,Platform/runtime incompatility
+GH,I271,https://github.com/DeviaVir/zenbot/issues/2535,Docker build currently not working,Docker-compose,Dependency error,Findability error
+GH,I275,https://github.com/thirtythreeforty/neolink/issues/104,Docker builds are not working,Dockerfile,Others,Others
+GH,I276,https://github.com/pytorch/serve/issues/860,KFServing instructions fail on Docker build,Dockerfile,Dependency error,Findability error
+GH,I279,https://github.com/lvgl/lv_port_pc_eclipse/issues/81,Docker build is not working on changeset on master head @e151ce7,Dockerfile,Others,Others
+GH,I280,https://github.com/ever-co/ever-traduora/issues/187,Docker build / compose fail,Dockerfile,Security issue,Permission error
+GH,I281,https://github.com/opencv/opencv/issues/19198,opencv.js - docker build throws Unexpected string,Dockerfile,Execution error,Parse error
+GH,I282,https://github.com/facebookresearch/hydra/issues/1232,[Bug] Hydra installation failing if java is not installed (Docker build),Dockerfile,Dependency error,Findability error
+GH,I286,https://github.com/apache/apisix-dashboard/issues/1233,docker build fail,Dockerfile,Dependency error,Download error
+GH,I288,https://github.com/nestybox/sysbox/issues/187,Docker build inside sysbox container results in lchown ... no such file or directory errors,Dockerfile,Resource error,File inaccessibility error
+GH,I289,https://github.com/aws/aws-cdk/issues/12610,(aws-lambda-python) docker build is not working,Dockerfile,Resource error,File inaccessibility error
+GH,I293,https://github.com/microsoft/azure-pipelines-tasks/issues/14298,Docker build tasks are failing since today: invalid argument --tag,Dockerfile,Configuration error,Invalid build argument
+GH,I296,https://github.com/saleor/saleor/issues/6824,Docker Build 3.0 fails on Apple M1,Dockerfile,Resource error,File inaccessibility error
+GH,I297,https://github.com/BergmannLab/MONET/issues/44,ERROR: docker build returned an error,Dockerfile,Dependency error,Findability error
+GH,I298,https://github.com/ojkelly/yarn.build/issues/73,Dependency tracking and Docker build cache,Dockerfile,Environment error,Cache issue
+GH,I314,https://github.com/AOT-Technologies/forms-flow-ai/issues/56,Problems during docker build,Docker-compose,Resource error,File inaccessibility error
+GH,I317,https://github.com/GitTools/GitVersion/issues/2633,[Bug] GitVersion crashes Docker build,Dockerfile,Others,Others
+GH,I319,https://github.com/fluxcd/flux/issues/3453,Bump to gnutls 3.6.15-r1 or later in docker build and base image,Dockerfile,Dependency error,Unsatisfiable constraints
+GH,I323,https://github.com/nestybox/sysbox/issues/254,Docker build inside sysbox container results in Error processing tar file(exit status 1): operation not permitted,Dockerfile,Security issue,Permission error
+GH,I327,https://github.com/hyperledger-labs/business-partner-agent/issues/379,Docker build fails,Dockerfile,Others,Others
+GH,I329,https://github.com/game-ci/docker/issues/103,docker build fails on ADD config/asound.conf /etc/ on macOS,Dockerfile,Resource error,File inaccessibility error
+GH,I332,https://github.com/tchapi/davis/issues/23,"Composer version not specified, causing docker build failure",Dockerfile,Configuration error,Invalid compose file
+GH,I335,https://github.com/AdoptOpenJDK/openjdk-api-v3/issues/394,Bintray Sunset - API docker build failed 403 on nodes-0.5.0.pom,Docker-compose,Dependency error,Download error
+GH,I343,https://github.com/ethereum-optimism/optimism-tutorial/issues/36,Issue with package @eth-optimism/contracts when running docker-compose build,Docker-compose,Dependency error,Findability error
+GH,I344,https://github.com/NoahCardoza/CloudProxy/issues/49,Npm build / Docker build fails,Dockerfile,Dependency error,Findability error
+GH,I350,https://github.com/TrueBlocks/trueblocks-docker/issues/305,Docker builds but core dumps when used,Docker-compose,Others,Others
+GH,I352,https://github.com/verificarlo/verificarlo/issues/257,Docker build is broken,Dockerfile,Resource error,File inaccessibility error
+GH,I353,https://github.com/hyperledger/fabric-private-chaincode/issues/603,Sample Test-network build fails on ecc docker build,Dockerfile,Others,Others
+GH,I354,https://github.com/opensearch-project/OpenSearch/issues/868,two log4j2.properties instead of one for docker build,Dockerfile,Others,Others
+GH,I355,https://github.com/jesseduffield/lazydocker/issues/262,docker-compose build fail,Docker-compose,Dependency error,Download error
+GH,I356,https://github.com/BitGo/BitGoJS/issues/1250,Bug docker build bitgo-express,Dockerfile,Resource error,Redundant files
+GH,I357,https://github.com/ergochat/ergo/issues/1726,docker build is broken,Dockerfile,Security issue,Permission error
+GH,I358,https://github.com/npm/cli/issues/3516,CB() never called error during docker build,Dockerfile,Dependency error,Findability error
+GH,I359,https://github.com/nextcloud/nextcloudpi/issues/1297,docker build for arm64 fails with Device or resource busy,Dockerfile,Others,Others
+GH,I365,https://github.com/automl/auto-sklearn/issues/1193,Docker build broken,Dockerfile,Environment error,Platform/runtime incompatility
+GH,I366,https://github.com/iv-org/invidious/issues/2310,[Bug] Docker build fails (boringssl),Docker-compose,Security issue,Permission error
+GH,I370,https://github.com/BobAnkh/auto-generate-changelog/issues/64,[bug] Docker build failed with code 100,Dockerfile,Dependency error,Findability error
+GH,I371,https://github.com/kermitt2/grobid/issues/822,Docker build fail,Dockerfile,Resource error,File inaccessibility error
+GH,I372,https://github.com/AleoHQ/snarkOS/issues/1069,[Bug] docker-compose build for v1.3.14 failed.,Docker-compose,Execution error,Compilation error
+GH,I375,https://github.com/gazebosim/gz-sim/issues/1004,ign-gazebo5 Docker build fails; unable to locate package dart6-data,Dockerfile,Dependency error,Findability error
+GH,I378,https://github.com/dlstreamer/pipeline-server/issues/88,Docker build fails if no_proxy setting contains spaces,Dockerfile,Execution error,Parse error
+GH,I380,https://github.com/anmol098/waka-readme-stats/issues/226,BUG: Docker build failed with exit code 1,Dockerfile,Dependency error,Findability error
+GH,I383,https://github.com/TheUltimateFoxOS/FoxOS/issues/6,Docker build fails unexpected,Dockerfile,Execution error,Parse error
+GH,I385,https://github.com/Auto-DL/Auto-DL/issues/356,Docker build fail,Dockerfile,Dependency error,Unsatisfiable constraints
+GH,I390,https://github.com/convos-chat/convos/issues/624,Inconsistent Docker build architecture,Dockerfile,Environment error,Platform/runtime incompatility
+GH,I392,https://github.com/syncthing/syncthing/issues/8008,Docker build fails for v1.18.3,Dockerfile,Dependency error,Unsatisfiable constraints
+GH,I399,https://github.com/opensearch-project/opensearch-build/issues/1154,[Bug]: Docker build fails without security plugin,Dockerfile,Resource error,File inaccessibility error
+GH,I401,https://github.com/antonbabenko/pre-commit-terraform/issues/287,Docker build fails,Dockerfile,Resource error,File inaccessibility error
+GH,I402,https://github.com/mpast/mobileAudit/issues/48,docker compose up / docker-compose build,Docker-compose,Execution error,Parse error
+GH,I404,https://github.com/pantsbuild/pants/issues/13850,Misleading error message when unknown docker build-arg is referenced in `image_tags`,Dockerfile,Configuration error,Invalid build argument
+GH,I405,https://github.com/dotnet/dotnet-docker/issues/3338,.NET6 docker build stuck on dotnet restore,Dockerfile,Resource error,Directory/path error
+GH,I413,https://github.com/lowRISC/opentitan/issues/8569,[docker] Docker build failures,Dockerfile,Security issue,Permission error
+GH,I414,https://github.com/homuler/MediaPipeUnityPlugin/issues/349,Windows mediapipe_jni and docker build problem,Dockerfile,Execution error,Connection exception
+GH,I415,https://github.com/dotnet/dotnet-docker/issues/3379,dotnet6 docker build create a none images,Dockerfile,Others,Others
+GH,I416,https://github.com/sigstore/cosign-installer/issues/47,signing image always fail with multuple stage docker build,Dockerfile,Others,Others
+GH,I418,https://github.com/mattermost/focalboard/issues/2115,"Bug: Docker build failure on arm64, v0.12.0",Dockerfile,Environment error,Platform/runtime incompatility
+GH,I420,https://github.com/runatlantis/atlantis/issues/2001,Atlantis v0.18.1 Docker Builds do not run on ECS/Fargate ARM Graviton,Dockerfile,Execution error,Parse error
+GH,I424,https://github.com/spdk/spdk/issues/2332,docker-compose build failed,Docker-compose,Resource error,File inaccessibility error
+GH,I425,https://github.com/benbusby/whoogle-search/issues/622,[BUG] Latest commit (ecb4277) completely breaks the docker-compose build,Docker-compose,Security issue,Permission error
+GH,I430,https://github.com/juice-shop/juice-shop/issues/1759,[:bug:] docker build crashes due to @fortawesome version update 5.14.0 -> 6.0.0,Dockerfile,Dependency error,Findability error
+GH,I431,https://github.com/InfiniTimeOrg/InfiniTime/issues/992,Docker build fails -- no module cbor when running tools/mcuboot/imgtool/boot_record.py. Importing cbor2 instead works.,Dockerfile,Dependency error,Findability error
+GH,I432,https://github.com/envoyproxy/envoy-build-tools/issues/163,devcontainer docker build is broken due to old signing key,Dockerfile,Security error,Other security error
+GH,I433,https://github.com/pytorch/TensorRT/issues/869,:bug: [Bug] Docker build fails while building libtorchtrc,Dockerfile,Dependency error,Findability error
+GH,I435,https://github.com/pytorch/TensorRT/issues/875,:bug: [Bug] Docker build fails,Dockerfile,Dependency error,Findability error
+GH,I436,https://github.com/paperless-ngx/paperless-ngx/issues/150,[Bug] Docker Build armv7 fails,Dockerfile,Environment error,Platform/runtime incompatility
+GH,I438,https://github.com/backstage/backstage/issues/9983,[TechDocs] Docker build fails on k8s,Dockerfile,Execution error,Connection exception
+GH,I439,https://github.com/aws-amplify/amplify-hosting/issues/2618,Docker build fails on latest image,Dockerfile,Security issue,Permission error
+GH,I443,https://github.com/microsoft/navcontainerhelper/issues/2360,Docker Build failed with exit code 255,Dockerfile,Environment error,Platform/runtime incompatility
+GH,I446,https://github.com/iotexproject/iotex-core/issues/3232,docker build fail,Dockerfile,Security issue,Permission error
+GH,I448,https://github.com/NVIDIA/NeMo/issues/3905,docker build error,Dockerfile,Dependency error,Findability error
+GH,I453,https://github.com/tailscale/tailscale/issues/4421,Android Docker Build Failure,Dockerfile,Execution error,Connection exception
+GH,I456,https://github.com/paperless-ngx/paperless-ngx/issues/841,[BUG] Regression in docker build,Dockerfile,Execution error,Parse error
+GH,I460,https://github.com/searxng/searxng/issues/1225,docker build error,Dockerfile,Configuration error,Invalid build argument
+GH,I461,https://github.com/hummingbot/hummingbot/issues/5346,Client - Unable to start due to TypeError on docker build,Dockerfile,Execution error,Parse error
+GH,I462,https://github.com/pandas-dev/pandas/issues/47163,BUG: Docker build without cache leads to error due to identity issues,Dockerfile,Security error,Authentication error
+GH,I467,https://github.com/cmu-db/benchbase/issues/193,docker build image --> addgroup: The GID `0 is already in use,Dockerfile,Security issue,Permission error
+GH,I469,https://github.com/goreleaser/goreleaser/issues/3187,Parallel docker builds result in duplicate name error,Dockerfile,Environment error,Invalid Docker daemon
+GH,I472,https://github.com/NVIDIA/DeepLearningExamples/issues/1167,[ELECTRA / TF2] docker build error: returned a non-zero code 1,Dockerfile,Execution error,Parse error
+GH,I476,https://github.com/pamidur/aspect-injector/issues/188,Docker build/ dotnet build in linux: AspectInjector not found,Dockerfile,Dependency error,Findability error
+GH,I478,https://github.com/bentoml/BentoML/issues/2820,bug: docker build issue with GCP,Dockerfile,Security issue,Permission error
+GH,I479,https://github.com/DarkflameUniverse/DarkflameServer/issues/721,BUG: Docker build CMake error,Docker-compose,Execution error,Compilation error
+GH,I480,https://github.com/BurningOKR/BurningOKR/issues/183,docker build frontend Consider upgrading your application to use a more recent version of Angular.,Dockerfile,Dependency error,Unsatisfiable constraints
+GH,I483,https://github.com/robertmartin8/PyPortfolioOpt/issues/476,Docker build failed due to dir name and Dockerfile mismatch,Dockerfile,Resource error,File inaccessibility error
+GH,I484,https://github.com/openstreetmap/openstreetmap-website/issues/3662,Docker builds failing without mini_portile2,Dockerfile,Dependency error,Findability error
+GH,I485,https://github.com/graphsense/graphsense-dashboard/issues/341,docker-compose build does not work,Docker-compose,Resource error,File inaccessibility error
+GH,I487,https://github.com/hyperledger/iroha/issues/2690,[BUG]: Local `docker build` fails on M1 Mac,Dockerfile,Environment error,Platform/runtime incompatility
+GH,I491,https://github.com/Sygil-Dev/sygil-webui/issues/820,[Bug]: Docker build fails with error The repository https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64 Release does not have a Release file.,Docker-compose,Resource error,File inaccessibility error
+GH,I500,https://github.com/pyload/pyload/issues/4204,Docker build fails building cryptography wheel,Dockerfile,Dependency error,Findability error
+GH,I502,https://github.com/triton-inference-server/server/issues/4981,Docker build fail on windows,Dockerfile,Dependency error,Findability error
+GH,I504,https://github.com/sipcapture/heplify-server/issues/507,"Fresh Docker build, server restarting in constant loop",Dockerfile,Resource error,File inaccessibility error
+GH,I509,https://github.com/toddsundsted/ktistec/issues/18,docker build fails with Error: undefined method modification_time,Dockerfile,Execution error,Parse error
+GH,I515,https://github.com/mastodon/mastodon/issues/20712,ERROR [stage-1 9/10] during docker-compose build of 4.0.0,Docker-compose,Execution error,Compilation error
+GH,I516,https://github.com/vapor/vapor/issues/2913,docker build failure,Dockerfile,Dependency error,Unsatisfiable constraints
+GH,I519,https://github.com/libreddit/libreddit/issues/641,:bug: Bug Report: aarch64 Docker builds have been failing for 6 months,Dockerfile,Others,Others
+GH,I522,https://github.com/inventree/InvenTree/issues/3996,[Bug] Docker builds are currently failing,Dockerfile,Dependency error,Findability error
+GH,I523,https://github.com/mattermost/focalboard/issues/4249,Bug: docker build returns non-zero code: 2 on EC2,Dockerfile,Execution error,Compilation error
+GH,I528,https://github.com/robertmartin8/PyPortfolioOpt/issues/507,Docker build failed due to obsolete pip and poetry versions were hard coded on docker/Dockerfile,Dockerfile,Others,Others
+GH,I530,https://github.com/deepset-ai/haystack/issues/2086,Requirements.txt mssing so cannot run docker-compose build,Docker-compose,Resource error,File inaccessibility error
+GH,I539,https://github.com/apache/arrow-ballista/issues/589,docker build fails,Dockerfile,Resource error,File inaccessibility error
+GH,I540,https://github.com/kubeshop/tracetest/issues/1791,Typescript errors when trying to run docker build web,Dockerfile,Execution error,Compilation error
+GH,I543,https://github.com/oxsecurity/megalinter/issues/2256,Docker build: Call Github API with authentication,Dockerfile,Security error,Authentication error
+GH,I545,https://github.com/oliverw/miningcore/issues/1584,MacOS docker build failure,Dockerfile,Execution error,Compilation error
+GH,I547,https://github.com/TobyBaril/EarlGrey/issues/35,Docker build instructions fail,Dockerfile,Execution error,Parse error
+GH,I549,https://github.com/rustdesk/rustdesk/issues/3008,Docker build error,Dockerfile,Resource error,File inaccessibility error
+GH,I550,https://github.com/devlooped/GitInfo/issues/216,Missing Git Information with Docker build,Dockerfile,Resource error,Directory/path error
+GH,I553,https://github.com/Kav-K/GPTDiscord/issues/141,Docker build fails on v10.0.0,Dockerfile,Dependency error,Findability error
+GH,I556,https://github.com/tsightler/ring-mqtt/issues/552,Bug: Latest docker build crashes with s6-overlay-suexec: not found,Docker-compose,Dependency error,Findability error
+GH,I560,https://github.com/openseedbox/openseedbox/issues/114,Backend: multiparch Docker build fails to restart torrent backend on non `amd64` platforms,Dockerfile,Environment error,Platform/runtime incompatility
+GH,I567,https://github.com/AykutSarac/jsoncrack.com/issues/316,[BUG]: Docker build failing because no package-lock.json or npm-shrinkwrap.json present,Dockerfile,Resource error,File inaccessibility error
+GH,I568,https://github.com/mattermost/focalboard/issues/4637,Bug: Docker Build v7.8.2 Fails,Docker-compose,Resource error,File inaccessibility error
+GH,I570,https://github.com/openshwprojects/OpenBK7231T_App/issues/732,"Docker build succeeds, but outputs directory empty",Dockerfile,Environment error,Platform/runtime incompatility
+GH,I573,https://github.com/web-infra-dev/rspack/issues/2355,ci: docker build step is not cached,Dockerfile,Environment error,Cache issue
+GH,I580,https://github.com/yairm210/Unciv/issues/9207,Docker build error /src/desktop/packr/Unciv.jar : not found,Dockerfile,Dependency error,Findability error
+GH,I581,https://github.com/bitcoin/bitcoin/issues/27492,ci: failure in Docker build step,Dockerfile,Dependency error,Findability error
+GH,I582,https://github.com/AykutSarac/jsoncrack.com/issues/330,[BUG]: Problems when run docker build in some tags,Dockerfile,Dependency error,Download error
+GH,I584,https://github.com/pyload/pyload/issues/4287,Docker build failing with AttributeError: module jinja2.ext has no attribute autoescape,Dockerfile,Execution error,Parse error
+GH,I588,https://github.com/yairm210/Unciv/issues/9403,Docker build error,Docker-compose,Dependency error,Findability error
+GH,I589,https://github.com/MPC-SoK/frameworks/issues/64,mp-spdz docker build error,Dockerfile,Environment error,Platform/runtime incompatility
+GH,I591,https://github.com/SPARQL-Anything/sparql.anything/issues/370,Docker build failure?,Dockerfile,Resource error,File inaccessibility error
+GH,I594,https://github.com/xtekky/gpt4free/issues/643,Docker build error (problem in Dockerfile),Dockerfile,Execution error,Parse error
+GH,I596,https://github.com/testcontainers/testcontainers-dotnet/issues/914,[Bug]: Docker Build Fails only with Testcontainers,Dockerfile,Resource error,File inaccessibility error
+GH,I597,https://github.com/inventree/InvenTree/issues/4999,Fix broken docker build,Dockerfile,Others,Others
+GH,I602,https://github.com/tabler/tabler/issues/1627,[BUG] Docker Build Fails,Dockerfile,Resource error,File inaccessibility error
+GH,I605,https://github.com/mudler/LocalAI/issues/610,Docker build failed,Dockerfile,Security error,Siginature error
+GH,I609,https://github.com/backstage/backstage/issues/18370,:bug: Bug Report: docker build error on node-gyp rebuild with isolated-vm while yarn install phase,Dockerfile,Dependency error,Findability error
+GH,I610,https://github.com/reworkd/AgentGPT/issues/850,:bug: Errors when running docker-compose build,Docker-compose,Dependency error,Findability error
+GH,I611,https://github.com/mudler/LocalAI/issues/662,"Error: Docker build failed, `gzip: stdin: not in gzip format`",Dockerfile,Execution error,Parse error
+GH,I613,https://github.com/ConduitIO/conduit/issues/1107,Docker builds failing,Dockerfile,Dependency error,Findability error
+GH,I615,https://github.com/inventree/InvenTree/issues/5214,arm/v7 architecture missing in current docker builds?,Docker-compose,Environment error,Platform/runtime incompatility
+GH,I616,https://github.com/garden-io/garden/issues/4815,0.13: [Bug]: local-docker build fails with ENOENT,Dockerfile,Others,Others
+GH,I618,https://github.com/Project-MONAI/MONAI/issues/6714,docker build pip deps issue,Dockerfile,Dependency error,Unsatisfiable constraints
+GH,I623,https://github.com/connectrpc/connect-go/issues/555,Checksum mismatch creating docker build,Dockerfile,Security issue,Other security error
+GH,I624,https://github.com/hyperledger/fabric/issues/4336,Failed to generate platform-specific docker build: Error returned from build: 1 no required module provides package github.com/fabcar: go.mod file not found in current directory or any parent directory; see go help modules,Docker-compose,Resource error,File inaccessibility error
+GH,I630,https://github.com/void-linux/void-packages/issues/45780,`docker build` fails with ERROR: http: invalid Host header with docker-buildx-0.10.3_3,Dockerfile,Execution error,Parse error
+GH,I631,https://github.com/mastodon/mastodon/issues/26820,Docker build of 4.2-beta fails with GLIBC version mismatch error in the ruby-jemalloc container,Dockerfile,Dependency error,Findability error
+GH,I634,https://github.com/backstage/backstage/issues/20113,:bug: Bug Report: Docker Build Failure,Dockerfile,Dependency error,Findability error
+GH,I635,https://github.com/kanidm/kanidm/issues/2148,Can t build kanidmd using the Ubuntu docker builder scripts,Dockerfile,Dependency error,Findability error
+GH,I637,https://github.com/frappe/frappe_docker/issues/1237,Docker build fails for custom image,Dockerfile,Dependency error,Unsatisfiable constraints
+GH,I640,https://github.com/super-linter/super-linter/issues/4735,Docker builds have run out of space,Dockerfile,Resource error,Redundant files
+GH,I641,https://github.com/lyft/cartography/issues/1269,Docker build fails due to dependancy issue,Dockerfile,Dependency error,Unsatisfiable constraints
+GH,I647,https://github.com/inventree/InvenTree/issues/5825,Docker builds failing due to recent PR,Dockerfile,Execution error,Parse error
+GH,I648,https://github.com/goreleaser/goreleaser/issues/4392,docker build failed: exit status 1: ERROR: use `docker --context=default buildx` to switch to context default,Dockerfile,Resource error,Invalid context
+GH,I651,https://github.com/macOScontainers/rund/issues/26,docker build stuck forever on context creation,Dockerfile,Configuration error,Tool/plugin setting error
+GH,I652,https://github.com/vaadin/platform/issues/4680,cannot add vaadin pro licence to docker build,Dockerfile,Resource error,File inaccessibility error
+GH,I658,https://github.com/wolveix/satisfactory-server/issues/217,Docker build currently crashes with the newest,Docker-compose,Others,Others
+GH,I660,https://github.com/mastodon/mastodon/issues/28224,Docker build fails: json-canonicalization 0.3.2 is missing,Docker-compose,Dependency error,Download error
+GH,I663,https://github.com/homuler/MediaPipeUnityPlugin/issues/913,docker build error,Dockerfile,Dependency error,Findability error
+SO,P1,https://stackoverflow.com/questions/38966592,Run webpack build during docker-compose build process,Docker-compose,Dependency error,Findability error
+SO,P2,https://stackoverflow.com/questions/58600986,GitLab CI - Trying to use docker buildx to build for ARM64,Dockerfile,Dependency error,Findability error
+SO,P3,https://stackoverflow.com/questions/58924215,docker build certbot e-mail input,Dockerfile,Execution error,Interaction interruption
+SO,P4,https://stackoverflow.com/questions/38576020,Use STDIN during docker build from a Dockerfile,Dockerfile,Execution error,Interaction interruption
+SO,P5,https://stackoverflow.com/questions/58327096,Unable to copy file during docker build,Docker-compose,Resource error,File inaccessibility error
+SO,P6,https://stackoverflow.com/questions/58349741,"Local npm dependency ''does not a contain a package.json file'' in docker build, but runs fine with npm start",Dockerfile,Resource error,Directory/path error
+SO,P8,https://stackoverflow.com/questions/39278756,Cache ''go get'' in docker build,Docker-compose,Environment error,Cache issue
+SO,P10,https://stackoverflow.com/questions/59139453,Repository is not signed in docker build,Dockerfile,Security error,Authentication error
+SO,P11,https://stackoverflow.com/questions/59288142,Docker: COPY can't find files in local directory where the `docker build` runs,Docker-compose,Resource error,File inaccessibility error
+SO,P13,https://stackoverflow.com/questions/44708481,How to install local packages using pip as part of a docker build?,Dockerfile,Resource error,Directory/path error
+SO,P14,https://stackoverflow.com/questions/44907444,Error 137 on docker build command on Win7,Dockerfile,Environment error,Insufficient memory
+SO,P15,https://stackoverflow.com/questions/39100587,docker build --no-cache=true still builds with cache?,Dockerfile,Environment error,Cache issue
+SO,P16,https://stackoverflow.com/questions/58757072,Can't install Python package located in private Nexus repo on docker build,Dockerfile,Dependency error,Download error
+SO,P18,https://stackoverflow.com/questions/66211996,How to correctly pass ssh key file from Jenkins credentials variable into to docker build command?,Dockerfile,Security error,Permission error
+SO,P19,https://stackoverflow.com/questions/66602656,No module named 'numpy' during docker build,Dockerfile,Dependency error,Findability error
+SO,P20,https://stackoverflow.com/questions/58276248,I can't find my jar file when trying to copy it in a multi stage docker build,Dockerfile,Resource error,File inaccessibility error
+SO,P21,https://stackoverflow.com/questions/58375795,"How to do configure,make and make install in docker build",Dockerfile,Resource error,File inaccessibility error
+SO,P25,https://stackoverflow.com/questions/58779131,"Why aren't my docker images, built by ''docker-compose build'', using the correct version of my code?",Docker-compose,Resource error,Invalid context
+SO,P26,https://stackoverflow.com/questions/69585684,running dpkg command in docker build in jenkins pipeline throws ''cannot access archive: No such file or directory'',Dockerfile,Resource error,File inaccessibility error
+SO,P28,https://stackoverflow.com/questions/69788651,Github private packages are not installing in docker build,Docker-compose,Resource error,Redundant contextual file
+SO,P29,https://stackoverflow.com/questions/39589006,windows ''C:/Users/<username>/'' directories not visible during `docker build` command,Dockerfile,Resource error,File inaccessibility error
+SO,P30,https://stackoverflow.com/questions/58449076,docker-compose build fails with no such file or directory,Docker-compose,Resource error,File inaccessibility error
+SO,P34,https://stackoverflow.com/questions/69781117,Does docker buildkit work with a mounted docker.sock and docker compose?,Docker-compose,Resource error,Directory/path error
+SO,P40,https://stackoverflow.com/questions/76508500,'Text file busy'' during a docker build,Docker-compose,Dependency error,Unsatisfiable constraints
+SO,P41,https://stackoverflow.com/questions/54111885,"`docker build` command hangs for a very long time, other commands work fine",Dockerfile,Configuration error,Tool/plugin setting error
+SO,P42,https://stackoverflow.com/questions/54115129,'docker build'' requires exactly 1 argument - docker build error,Dockerfile,Configuration error,Invalid build argument
+SO,P45,https://stackoverflow.com/questions/70328885,docker build stuck on dotnet restore,Dockerfile,Configuration error,Tool/plugin setting error
+SO,P47,https://stackoverflow.com/questions/76491765,docker buildx failing with Problem executing scripts APT::Update::Post-Invoke,Dockerfile,Dependency error,Unsatisfiable constraints
+SO,P48,https://stackoverflow.com/questions/34974579,Issues with docker build command and github,Dockerfile,Execution error,Connection exception
+SO,P49,https://stackoverflow.com/questions/34990458,docker-compose build and http_proxy,Docker-compose,Dependency error,Download error
+SO,P50,https://stackoverflow.com/questions/67917256,GitLab CI docker build - docker: not found - exit code 127,Dockerfile,Environment error,Invalid Docker daemon
+SO,P51,https://stackoverflow.com/questions/51255945,Error greenlet docker build,Dockerfile,Dependency error,Unsatisfiable constraints
+SO,P52,https://stackoverflow.com/questions/54069982,Large Docker context slowing down docker-compose build,Docker-compose,Resource error,Redundant files
+SO,P53,https://stackoverflow.com/questions/54086419,Receiving 'The SSL connection could not be established' message when restoring packages after running docker-compose build,Docker-compose,Security error,Authentication error
+SO,P55,https://stackoverflow.com/questions/74951062,--build-arg is not working for my docker build,Dockerfile,Configuration error,Invalid build argument
+SO,P56,https://stackoverflow.com/questions/55805917,kaniko docker build: can't find command,Dockerfile,Dependency error,Findability error
+SO,P62,https://stackoverflow.com/questions/55778949,Failed docker build has no logs - ''configured logging driver does not support reading'',Dockerfile,Resource error,Redundant files
+SO,P63,https://stackoverflow.com/questions/55849976,Golang Dockerfile : Unable to find packages in docker build but runs normally,Dockerfile,Depdency error,Findability error
+SO,P64,https://stackoverflow.com/questions/56165027,Docker does not create a new container when using docker-compose build,Docker-compose,Others,Others
+SO,P67,https://stackoverflow.com/questions/56230886,fatal error: *.h: No such file or directory. While running docker build command to create image for python project,Dockerfile,Dependency error,Findability error
+SO,P68,https://stackoverflow.com/questions/39084363,installation of nodejs returned a non-zero code: 1 with docker build,Dockerfile,Dependency error,Unsatisfiable constraints
+SO,P71,https://stackoverflow.com/questions/68590646,multi stage docker build with nginx image,Dockerfile,Resource error,File inaccessibility error
+SO,P73,https://stackoverflow.com/questions/75464099,Why could git not clone private repo during docker build with '--mount=type=ssh',Dockerfile,Security error,Permission error
+SO,P74,https://stackoverflow.com/questions/56346114,Why can't docker build COPY files to the /dev folder?,Dockerfile,Others,Others
+SO,P75,https://stackoverflow.com/questions/42548375,Why docker build is so slow,Dockerfile,Environment error,Insufficient memory
+SO,P79,https://stackoverflow.com/questions/67923109,CodeBuild failing to pull file from S3 in docker build,Dockerfile,Security error,Permission error
+SO,P80,https://stackoverflow.com/questions/42346498,dotnet aspnetcore docker build fails with a 145 error code,Dockerfile,Dependency error,Findability error
+SO,P82,https://stackoverflow.com/questions/34120504,How can I make docker-compose build an image from a remote git repository?,Docker-compose,Resource error,Directory/path error
+SO,P85,https://stackoverflow.com/questions/45978035,unable to build docker-compose build,Docker-compose,Configuration error,Invalid compose file
+SO,P86,https://stackoverflow.com/questions/45998130,Jenkins Pipeline docker.build() gives error '''docker build'' requires exactly 1 argument(s)',Dockerfile,Configuration error,Invalid build argument
+SO,P88,https://stackoverflow.com/questions/40748918,Running gulp in `docker-compose build`,Docker-compose,Resource error,File inaccessibility error
+SO,P95,https://stackoverflow.com/questions/59148598,How to get gcloud.auth.docker-helper out of the habit to hook into non-related docker build?,Dockerfile,Security error,Authentication error
+SO,P96,https://stackoverflow.com/questions/39868369,Run docker-compose build in .gitlab-ci.yml,Docker-compose,Environment error,Invalid Docker daemon
+SO,P97,https://stackoverflow.com/questions/60080264,Docker - Cannot build multi-platform images with docker buildx,Dockerfile,Environment error,Platform incompatility error
+SO,P99,https://stackoverflow.com/questions/41354864,Cannot use process substitution during docker build because bash goes into posix mode,Dockerfile,Execution error,Parse error
+SO,P101,https://stackoverflow.com/questions/40878888,How to access files outside of docker-compose build context?,Docker-compose,Resource error,Directory/path error
+SO,P104,https://stackoverflow.com/questions/59737482,Changes to my dockerfile are not reflected when running `docker build`,Dockerfile,Others,Others
+SO,P106,https://stackoverflow.com/questions/60430255,using docker buildx failed to push image to resgistry: no such host,Dockerfile,Dependency error,Download error
+SO,P108,https://stackoverflow.com/questions/60498355,docker-compose build copy failed,Docker-compose,Resource error,File inaccessibility error
+SO,P110,https://stackoverflow.com/questions/59506143,cannot copy from one stage to another in multi stage docker build,Dockerfile,Resource error,File inaccessibility error
+SO,P112,https://stackoverflow.com/questions/70105647,docker build vue3 not compatible with element-ui on node:16-buster-slim,Dockerfile,Dependency error,Unsatisfiable constraints
+SO,P113,https://stackoverflow.com/questions/59464404,COPY files - next to Dockerfile - don't work and block docker build,Docker-compose,Resource error,File inaccessibility error
+SO,P114,https://stackoverflow.com/questions/59476253,docker build error: psql: could not connect to server: Connection refused,Dockerfile,Execution error,Connection exception
+SO,P115,https://stackoverflow.com/questions/40186104,Yarn warning on docker build,Dockerfile,Execution error,Connection exception
+SO,P118,https://stackoverflow.com/questions/23235612,"Dockerfile works when every line run interactively, but fails using docker build",Dockerfile,Resource error,File inaccessibility error
+SO,P123,https://stackoverflow.com/questions/59554493,Unable to fire a docker build for Django and Mysql,Docker-compose,Dependency error,Findability error
+SO,P125,https://stackoverflow.com/questions/62781585,docker build ERROR: Could not install packages due to an EnvironmentError: [Errno 2],Dockerfile,Dependency error,Unsatisfiable constraints
+SO,P126,https://stackoverflow.com/questions/63580785,dotnet publish fails during docker build,Dockerfile,Others,Others
+SO,P128,https://stackoverflow.com/questions/40445844,docker build hangs in directory with many files,Dockerfile,Resource error,Redundant files
+SO,P130,https://stackoverflow.com/questions/49065709,npm install inside docker build,Dockerfile,Execution error,Connection exception
+SO,P131,https://stackoverflow.com/questions/60118436,docker build question no permission to read from,Dockerfile,Security error,Permission error
+SO,P133,https://stackoverflow.com/questions/44104160,angular-cli ng command not found even if it is installed while docker building an image,Dockerfile,Dependency error,Findability error
+SO,P134,https://stackoverflow.com/questions/46779911,ASP.NET Core docker build error,Docker-compose,Environment error,Platform incompatility error
+SO,P137,https://stackoverflow.com/questions/68709164,docker build fails with access denied or repository not exist,Dockerfile,Security error,Authentication error
+SO,P138,https://stackoverflow.com/questions/64284880,docker build invalid tag,Dockerfile,Configuration error,Invalid build argument
+SO,P139,https://stackoverflow.com/questions/64309338,'RTNETLINK answers: Operation not permitted'' during `docker build`,Dockerfile,Security error,Permission error
+SO,P141,https://stackoverflow.com/questions/28880135,ASP.NET 5: docker build with multi-projects solution,Dockerfile,Dependency error,Findability error
+SO,P143,https://stackoverflow.com/questions/67326850,React/Next.js docker build failing when trying to reach out to local API endpoint,Dockerfile,Execution error,Connection exception
+SO,P146,https://stackoverflow.com/questions/63853835,docker-compose build fail with file not found,Docker-compose,Resource error,File inaccessibility error
+SO,P148,https://stackoverflow.com/questions/64804749,Why is docker build not showing any output from commands?,Dockerfile,Configuration error,Tool/plugin setting error
+SO,P149,https://stackoverflow.com/questions/67571974,Gitlab CI runner fails at docker-compose build with profiles,Docker-compose,Configuration error,Invalid compose file
+SO,P152,https://stackoverflow.com/questions/30179716,What are <none> repository and tags? Why do they appear when I use docker build?,Dockerfile,Others,Others
+SO,P155,https://stackoverflow.com/questions/64143658,Connecting to dotnet.testcontainer within docker build fails with message ''Cannot assign requested address /var/run/docker.sock'',Dockerfile,Execution error,Connection exception
+SO,P157,https://stackoverflow.com/questions/49155890,docker build ignore existing data and database config stored in my volume,Docker-compose,Resource error,Directory/path error
+SO,P158,https://stackoverflow.com/questions/64521556,docker build failed at 'Downloading mariadb',Dockerfile,Dependency error,Findability error
+SO,P159,https://stackoverflow.com/questions/45537948,Cannot docker build because of ''Couldn't run auplink before unmount'' error,Dockerfile,Execution error,Parse error
+SO,P165,https://stackoverflow.com/questions/66747430,EXPOSE and CMD are ignored when running docker build,Dockerfile,Configuration error,Tool/plugin setting error
+SO,P166,https://stackoverflow.com/questions/47244868,'docker build -f'' command does not seem to progress and shows no error,Dockerfile,Resource error,Redundant files
+SO,P168,https://stackoverflow.com/questions/62663360,getting error while using docker-compose build: __init__() got an unexpected keyword argument 'interpolate',Docker-compose,Configuration error,Invalid build argument
+SO,P169,https://stackoverflow.com/questions/29986190,docker build is very slow even with simple commands,Dockerfile,Environment error,Insufficient memory
+SO,P170,https://stackoverflow.com/questions/60675579,Why does pip (using --find-links) still collect some dependencies from the internet despite a wheel existing for it in multi-stage docker build?,Dockerfile,Depdency error,Download error
+SO,P171,https://stackoverflow.com/questions/60709500,Runnin docker build generates the following error ''unknown instruction: EXPAND-ARCHIVE'',Dockerfile,Configuration error,Invalid Dockerfile
+SO,P172,https://stackoverflow.com/questions/62668101,Updating apt breaks my docker build on Ubuntu 18.04,Dockerfile,Dependency error,Other dependency error
+SO,P175,https://stackoverflow.com/questions/60973375,.Net resource with files content make docker build fail,Dockerfile,Resource error,Directory/path error
+SO,P181,https://stackoverflow.com/questions/41250326,I keep getting the ''docker build'' requires exactly 1 argument(s) error,Dockerfile,Configuration error,Invalid build argument
+SO,P185,https://stackoverflow.com/questions/43742197,`sudo docker build .` fails from Docker snap package,Dockerfile,Security error,Permission error
+SO,P187,https://stackoverflow.com/questions/63476497,docker build with Ubuntu 18.04 image hangs after prompting for Country of origin for keyboard,Dockerfile,Execution error,Interaction interruption
+SO,P188,https://stackoverflow.com/questions/65365797,docker buildx ''exec user process caused: exec format error'',Dockerfile,Execution error,Parse error
+SO,P191,https://stackoverflow.com/questions/28996907,docker: ''build'' requires 1 argument. See 'docker build --help',Dockerfile,Configuration error,Invalid build argument
+SO,P193,https://stackoverflow.com/questions/44596075,docker build : Fatal error: Class 'Memcached' not found,Dockerfile,Dependency error,Findability error
+SO,P194,https://stackoverflow.com/questions/46084775,docker build how to run intermediate containers with centos:systemd,Dockerfile,Security error,Permission error
+SO,P195,https://stackoverflow.com/questions/50908914,docker-compose build not uses latest code,Docker-compose,Environment error,Cache issue
+SO,P197,https://stackoverflow.com/questions/71148343,Can't docker build a Golang project with internal packages,Dockerfile,Resource error,File inaccessibility error
+SO,P202,https://stackoverflow.com/questions/65376574,docker build skipping Dockerfile CMD,Dockerfile,Configuration error,Tool/plugin setting error
+SO,P203,https://stackoverflow.com/questions/51756012,yum -y install not assuming yes in docker build,Dockerfile,Execution error,Interaction interruption
+SO,P204,https://stackoverflow.com/questions/65968965,Multistage docker build: stat reports that NVIDIA file does not exist while it does,Dockerfile,Resource error,File inaccessibility error
+SO,P205,https://stackoverflow.com/questions/63483643,docker-compose build takes a very long time is there a verbose/debug log I can enable when building?,Docker-compose,Resource error,Redundant files
+SO,P207,https://stackoverflow.com/questions/66438759,"docker build failed on npm install, reason: connect ECONNREFUSED 104.16.17.35:443",Dockerfile,Execution error,Connection exception
+SO,P208,https://stackoverflow.com/questions/42400290,Create files / folders on docker-compose build or docker-compose up,Docker-compose,Resource error,Directory/path error
+SO,P211,https://stackoverflow.com/questions/42216296,No such file or directory in docker build,Dockerfile,Resource error,File inaccessibility error
+SO,P212,https://stackoverflow.com/questions/62800191,run npm ci hangs on docker build ubuntu,Dockerfile,Execution error,Connection exception
+SO,P217,https://stackoverflow.com/questions/61689167,error in docker build - Err:1 http://deb.debian.org/debian stretch/main amd64 unzip amd64 6.0-21+deb9u1 404 Not Found,Dockerfile,Dependency error,Findability error
+SO,P218,https://stackoverflow.com/questions/71187980,Improving docker build time for pip based python application,Dockerfile,Environment error,Cache issue
+SO,P219,https://stackoverflow.com/questions/61893963,error with docker build stage of CodeBuild build,Dockerfile,Environment error,Invalid Docker daemon
+SO,P220,https://stackoverflow.com/questions/62208229,Could not find 'bundler' (2.1.4) required by your /home/rails/webapp/Gemfile.lock. (Gem::GemNotFoundException) running docker build,Dockerfile,Dependency error,Findability error
+SO,P225,https://stackoverflow.com/questions/43085429,Run docker build in ubuntu:16.04 docker,Dockerfile,Environment error,Invalid Docker daemon
+SO,P227,https://stackoverflow.com/questions/70255238,typescript tsc -p fails ONLY in docker build,Dockerfile,Execution error,Parse error
+SO,P228,https://stackoverflow.com/questions/70521766,Visual Studio generated Dockerfile does not work with manual docker build,Dockerfile,Resource error,File inaccessibility error
+SO,P232,https://stackoverflow.com/questions/69871759,docker build command tries to connect https to insecure registry,Dockerfile,Execution error,Connection exception
+SO,P233,https://stackoverflow.com/questions/62484158,docker-compose build contains unsupported option: 'network',Docker-compose,Configuration error,Invalid compose file
+SO,P236,https://stackoverflow.com/questions/67798862,Pip3 is unable to install requirements.txt during docker build,Dockerfile,Dependency error,Other dependency error
+SO,P237,https://stackoverflow.com/questions/48831447,docker-compose build args not passing to Dockerfile,Docker-compose,Configuration error,Invalid build argument
+SO,P238,https://stackoverflow.com/questions/47610730,docker build go app private github,Dockerfile,Others,Others
+SO,P241,https://stackoverflow.com/questions/68310933,why docker build send build context to docker daemon so slow,Dockerfile,Resource error,Redundant contextual file
+SO,P242,https://stackoverflow.com/questions/68878523,My nextjs docker-compose build fails to generate static pages. Can't get data from another hasura container while building.ECONNREFUSED 127.0.0.1:8080,Docker-compose,Execution error,Connection exception
+SO,P247,https://stackoverflow.com/questions/70295661,Copy directory into docker build no matter if empty or not - fails on ''COPY failed: no source files were specified'',Dockerfile,Resource error,File inaccessibility error
+SO,P250,https://stackoverflow.com/questions/65139531,npm run build is not cached when running docker build with kaniko cache,Dockerfile,Environment error,Cache issue
+SO,P251,https://stackoverflow.com/questions/65139901,docker build failure - failed to export image: failed to set parent sha256:xxx: unknown parent image ID,Dockerfile,Others,Others
+SO,P252,https://stackoverflow.com/questions/35892414,Running gem install in a docker build hangs,Dockerfile,Depdency error,Other dependency error
+SO,P253,https://stackoverflow.com/questions/66040914,npm run build failing because of TypeScript error in docker build,Dockerfile,Depdency error,Unsatisfiable constraints
+SO,P257,https://stackoverflow.com/questions/45503162,Why is my docker build command failing with an ''invalid id'' error?,Dockerfile,Environment error,Invalid Docker daemon
+SO,P258,https://stackoverflow.com/questions/65156453,error invalid windows mount type: 'bind' on Windows 10 docker build of Windows container,Dockerfile,Environment error,Platform incompatility error
+SO,P259,https://stackoverflow.com/questions/65522049,docker build command doesn't refresh my source files,Docker-compose,Others,Others
+SO,P260,https://stackoverflow.com/questions/46517241,'docker build'' requires exactly 1 argument(s),Dockerfile,Configuration error,Invalid build argument
+SO,P263,https://stackoverflow.com/questions/28622112,Sending docker build contexts,Dockerfile,Resource error,Redundant files
+SO,P267,https://stackoverflow.com/questions/66914933,docker build error Gem::Ext::BuildError: ERROR: Failed to build gem native extension for mimemagic-0.3.9,Dockerfile,Dependency error,Findability error
+SO,P271,https://stackoverflow.com/questions/56665703,Tarantool docker build issue: libprofiler.so,Dockerfile,Resource error,File inaccessibility error
+SO,P272,https://stackoverflow.com/questions/76938071,when i run this command ''$ docker build --pull -t e45 . '' in file .gitlab-ci.yml i get error,Dockerfile,Execution error,Connection exception
+SO,P273,https://stackoverflow.com/questions/57883269,docker build throws java.net.AbstractPlainSocketImpl.connect UnknownHostException with jenkins dind slave + kubernetes plugin,Dockerfile,Execution error,Connection exception
+SO,P275,https://stackoverflow.com/questions/57617401,"Invalid framework identifier Dotnet restore, docker build",Dockerfile,Execution error,Parse error
+SO,P277,https://stackoverflow.com/questions/75940814,Unable to run apt-get within docker build,Dockerfile,Security error,Authentication error
+SO,P278,https://stackoverflow.com/questions/76025457,Jenkins docker build with NFS pv hangs,Dockerfile,Others,Others
+SO,P281,https://stackoverflow.com/questions/39342310,Dockerfile build error when use apt-get install gcc,Dockerfile,Dependency error,Findability error
+SO,P282,https://stackoverflow.com/questions/46383653,Unknown Instruction ln Docker File in RUN,Dockerfile,Configuration error,Invalid Dockerfile
+SO,P285,https://stackoverflow.com/questions/39623686,Docker build ends with error ''the command ... returned a non-zero code: 100'',Dockerfile,Others,Others
+SO,P286,https://stackoverflow.com/questions/39639999,Set values on image build for a Docker container,Dockerfile,Configuration error,Invalid build argument
+SO,P287,https://stackoverflow.com/questions/38787763,Docker build command with --tag unable to tag images,Dockerfile,Others,Others
+SO,P288,https://stackoverflow.com/questions/58515795,Use linux commands in Docker file and build on windows,Dockerfile,Dependency error,Findability error
+SO,P289,https://stackoverflow.com/questions/58447165,Docker build with custom path and custom filename not working,Dockerfile,Resource error,Invalid context
+SO,P290,https://stackoverflow.com/questions/39305614,"Docker build: mkdir creates folders, but they disappear in runtime",Docker-compose,Resource error,File inaccessibility error
+SO,P292,https://stackoverflow.com/questions/75028042,Nginx can't load /usr/share/nginx/html/ files are missing,Dockerfile,Resource error,Directory/path error
+SO,P295,https://stackoverflow.com/questions/61357736,Docker build error OCI runtime create failed ''exec: \''/bin/bash\'': stat /bin/bash,Dockerfile,Resource error,File inaccessibility error
+SO,P298,https://stackoverflow.com/questions/76054252,problem in building image file with docker,Dockerfile,Dependency error,Download error
+SO,P300,https://stackoverflow.com/questions/39841746,What is the proper set up for Maven to communicate with Docker daemon on Mac?,Dockerfile,Execution error,Connection exception
+SO,P302,https://stackoverflow.com/questions/63084974,Docker build not recognizing environment variable passed as `build-arg`,Dockerfile,Configuration error,Invalid build argument
+SO,P307,https://stackoverflow.com/questions/45049741,'virtual memory exhausted'' when building Docker image,Dockerfile,Environment error,Insufficient memory
+SO,P308,https://stackoverflow.com/questions/48397719,Docker build does not proceed after finishing RUN statement,Dockerfile,Resource error,Directory/path error
+SO,P318,https://stackoverflow.com/questions/61292368,Docker ERROR: unsatisfiable constraints when using apk,Dockerfile,Dependency error,Unsatisfiable constraints
+SO,P319,https://stackoverflow.com/questions/65348661,Docker: One or more build-args [SSH_PRIVATE_KEY] were not consumed (but it should have),Dockerfile,Configuration error,Invalid build argument
+SO,P322,https://stackoverflow.com/questions/44400325,Docker build seems to not see requirements.txt even though it's in same directory,Dockerfile,Resource error,File inaccessibility error
+SO,P326,https://stackoverflow.com/questions/68096589,Build Docker Image sometimes takes too long in Visual Studio,Dockerfile,Environment error,Cache issue
+SO,P328,https://stackoverflow.com/questions/60845995,Docker build does not use cache from npm ci,Dockerfile,Environment error,Cache issue
+SO,P329,https://stackoverflow.com/questions/70408381,Docker BuildKit returning '/run/secrets/<secret-id>: No such file or directory' when passing secrets to container using Azure DevOps build pipeline,Dockerfile,Resource error,File inaccessibility error
+SO,P330,https://stackoverflow.com/questions/64978200,How to fix error ''npm ERR! could not detect node name from path or package'' when building simple app with docker and nodeJS?,Dockerfile,Resource error,Directory/path error
+SO,P334,https://stackoverflow.com/questions/70533842,docker compose building and starting timeout,Docker-compose,Configuration error,Tool/plugin setting error
+SO,P335,https://stackoverflow.com/questions/45417773,How do i solve the error ''No such file or directory'' error when building with Dockerfile,Dockerfile,Resource error,File inaccessibility error
+SO,P338,https://stackoverflow.com/questions/35451745,docker file not found,Dockerfile,Resource error,File inaccessibility error
+SO,P339,https://stackoverflow.com/questions/51071252,Docker image not copying files names starting with,Dockerfile,Others,Others
+SO,P340,https://stackoverflow.com/questions/61459775,"Docker BuildKit --mount=type=cache not working, why?",Dockerfile,Environment error,Cache issue
+SO,P341,https://stackoverflow.com/questions/45363771,Docker build from Dockerfile with more memory,Dockerfile,Environment error,Insufficient memory
+SO,P343,https://stackoverflow.com/questions/35437225,Docker image of Java project,Dockerfile,Configuration error,Invalid build argument
+SO,P344,https://stackoverflow.com/questions/41966824,"Docker: Unable to correct problems, you have held broken packages",Dockerfile,Dependency error,Unsatisfiable constraints
+SO,P346,https://stackoverflow.com/questions/35457585,Files not getting added in docker workspace,Dockerfile,Resource error,Directory/path error
+SO,P349,https://stackoverflow.com/questions/65431757,Logs for failed Docker build,Dockerfile,Dependency error,Unsatisfiable constraints
+SO,P353,https://stackoverflow.com/questions/63120325,"In a Docker Build with the build-arg flag,values are not getting passed correctly",Dockerfile,Configuration error,Tool/plugin setting error
+SO,P354,https://stackoverflow.com/questions/43638004,Docker: build with different results compared to manual step-by-step build,Dockerfile,Environment error,Invalid Docker daemon
+SO,P355,https://stackoverflow.com/questions/67391438,Docker build failed to compute cache key,Dockerfile,Others,Others
+SO,P356,https://stackoverflow.com/questions/68984133,Error: ''Failed to solve with frontend dockerfile.v0: failed to create LLB definition: no match for platform in manifest'' when building a Docker image,Dockerfile,Environment error,Platform incompatility error
+SO,P358,https://stackoverflow.com/questions/35907435,Docker dependency issue: Rake aborted! LoadError: cannot load such file -- sqlite3/sqlite3_native,Dockerfile,Dependency error,Other dependency error
+SO,P361,https://stackoverflow.com/questions/62593004,Docker Buildx Cannot Pull From Local for Inherited Image,Dockerfile,Security error,Authentication error
+SO,P362,https://stackoverflow.com/questions/67739346,ADD and COPY with existing relative path fails when building a docker image,Dockerfile,Resource error,Directory/path error
+SO,P363,https://stackoverflow.com/questions/44546180,Docker build produces many unnamed images,Dockerfile,Others,Others
+SO,P364,https://stackoverflow.com/questions/48781708,"Change network settings (net.ipv4.ip_default_ttl) in Dockerfile (or, ideally, for any container)",Dockerfile,Security error,Permission error
+SO,P366,https://stackoverflow.com/questions/71123507,Invalid argument for ''-t --tag'' flag: invalid reference format,Docker-compose,Configuration error,Invalid build argument
+SO,P368,https://stackoverflow.com/questions/57723501,Unspecified error (0x80004005) while running a Docker build,Dockerfile,Environment error,Platform incompatility error
+SO,P373,https://stackoverflow.com/questions/50291827,Why can't I use the build arg again after FROM in a Dockerfile?,Dockerfile,Others,Others
+SO,P376,https://stackoverflow.com/questions/57581943,--mount=type=cache in buildkit,Dockerfile,Execution error,Connection exception
+SO,P379,https://stackoverflow.com/questions/56492013,Docker build on github branch cannot find file specified,Dockerfile,Resource error,Invalid context
+SO,P380,https://stackoverflow.com/questions/75732883,Docker --build-arg defined but not mandatory,Dockerfile,Configuration error,Invalid build argument
+SO,P382,https://stackoverflow.com/questions/58018658,Why does `chmod` cause `docker build` to run out of disk space,Dockerfile,Resource error,Redundant contextual file
+SO,P383,https://stackoverflow.com/questions/71198085,Creating Docker image for a dotnet 6 application - Type '' already defines a member called '' with the same parameter types,Dockerfile,Execution error,Parse error
+SO,P384,https://stackoverflow.com/questions/52963486,Installation of python module using `pip` during `docker build` fails,Dockerfile,Dependency error,Other dependency error
+SO,P385,https://stackoverflow.com/questions/72550184,Using ARG in my Dockerfile but still getting ''Failed to replace env in config'' when running my build,Dockerfile,Execution error,Environment variable error
+SO,P392,https://stackoverflow.com/questions/37982317,Docker compose doesn't recognize 'env_file',Docker-compose,Configuration error,Invalid compose file
+SO,P396,https://stackoverflow.com/questions/69205158,docker build command using ssh url to git repo: Permission denied,Dockerfile,Security error,Permission error
+SO,P397,https://stackoverflow.com/questions/72308864,Docker Build Issue: No Such File or Directory,Dockerfile,Resource error,File inaccessibility error
+SO,P399,https://stackoverflow.com/questions/67853670,docker build not setting up environment variables using ENV,Dockerfile,Execution error,Environment variable error
+SO,P400,https://stackoverflow.com/questions/67910547,Why Docker COPY doesn't change file permissions? (--chmod),Dockerfile,Security error,Permission error
+SO,P407,https://stackoverflow.com/questions/74548141,/bin/sh: zypper: not found (Docker),Dockerfile,Dependency error,Findability error
+SO,P408,https://stackoverflow.com/questions/69359842,Docker cache from command for new pulled images doesnt work,Dockerfile,Environment error,Cache issue
+SO,P409,https://stackoverflow.com/questions/55474823,HelloWorld Apama Docker Application,Dockerfile,Others,Others
+SO,P412,https://stackoverflow.com/questions/56834929,Why docker-daemon is not accessible in minikube VM?,Dockerfile,Environment error,Invalid Docker daemon
+SO,P413,https://stackoverflow.com/questions/53167546,Running shell script while building docker image,Dockerfile,Resource error,File inaccessibility error
+SO,P415,https://stackoverflow.com/questions/52280594,Docker Copy Command fails,Dockerfile,Resource error,File inaccessibility error
+SO,P416,https://stackoverflow.com/questions/74793665,Can I use Docker buildkit to provide an ssh key to a non-root user?,Dockerfile,Security error,Permission error
+SO,P417,https://stackoverflow.com/questions/76174572,Can't install Nodejs 14 in a Dockerfile with Ubuntu 18.04 baseimage in Openshift,Dockerfile,Dependency error,Findability error
+SO,P419,https://stackoverflow.com/questions/72781751,Segmentation fault in Docker build command with NPM install,Dockerfile,Environment error,Cache issue
+SO,P425,https://stackoverflow.com/questions/38457669,"docker build with Dockerfile, but the image has no name or tag",Dockerfile,Others,Others
+SO,P426,https://stackoverflow.com/questions/72153993,Docker COPY destination path not found,Dockerfile,Resource error,Directory/path error
+SO,P430,https://stackoverflow.com/questions/73154436,WARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager,Dockerfile,Security error,Permission error
+DF,P431,https://forums.docker.com/t/docker-build-cannot-find-the-dockerfile-beta/11525,Docker Build cannot find the DockerFile [BETA],Dockerfile,Configuration error,Invalid Dockerfile
+DF,P432,https://forums.docker.com/t/sudo-docker-build-t-nisevi-static-web/750,Sudo docker build -t=“nisevi/static_web”,Dockerfile,Configuration error,Invalid build argument
+DF,P433,https://forums.docker.com/t/docker-compose-build-problem/43913,Docker-compose build problem,Docker-compose,Resource error,File inaccessibility error
+DF,P434,https://forums.docker.com/t/resolved-automated-docker-build-fails/22831,[RESOLVED] Automated docker build fails,Dockerfile,Resource error,File inaccessibility error
+DF,P435,https://forums.docker.com/t/docker-build-ignoring-dockerignore/11991,Docker build ignoring .dockerignore,Dockerfile,Resource error,Redundant files
+DF,P436,https://forums.docker.com/t/extremely-slow-parallel-docker-builds/38587,Extremely slow parallel docker builds,Dockerfile,Configuration error,Tool/plugin setting error
+DF,P437,https://forums.docker.com/t/docker-build-run-exec-all-of-a-sudden-giving-8-system-error-no-such-file-or-directory/3980,Docker build/run/exec all of a sudden giving “[8] System error: no such file or directory”,Dockerfile,Resource error,File inaccessibility error
+DF,P438,https://forums.docker.com/t/docker-build-failing-on-docker-hub/76191,Docker build failing on Docker hub,Dockerfile,Resource error,File inaccessibility error
+DF,P439,https://forums.docker.com/t/docker-build-cannot-mount-volume-over-existing-file/86915,Docker build: cannot mount volume over existing file,Dockerfile,Others,Others
