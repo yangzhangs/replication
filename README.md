@@ -4,11 +4,11 @@ Artifact package for our paper. This repository includes our data and results.
 
 ## Data
 1. Data collection (<2024.01.01): 329 issues and 439 posts
-  * GitHub data, i.e., issues; `dataset/gh_issues.xls`
+  * GitHub data: [`dataset/gh_issues.xls`](dataset/gh_issues.xls)
     - 329 issues   
-	* Stack Overflow data, i.e., posts; `dataset/so_posts.xls`
+  * Stack Overflow data: `dataset/so_posts.xls`
     - 430 posts 
-  * Docker Forum data, i.e., posts; `dataset/df_posts.xls`
+  * Docker Forum data: `dataset/df_posts.xls`
     - 9 posts 
 2. Results:
   * `results/rq1_results.xls`: classification results for RQ1
