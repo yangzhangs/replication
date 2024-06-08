@@ -2,6 +2,11 @@
 
 Artifact package for our paper. This repository includes our data and results. 
 
+```
+Tips: The `Anonymous GitHub` doesn't seem to support the display of online CSV format, 
+you can download these files for a better view!
+```
+
 ## Data
 1. Data collection (<2024.01.01): 329 issues and 439 posts
   * GitHub data: [`dataset/gh_issues.csv`](https://anonymous.4open.science/r/replication-DBF/dataset/gh_issues.csv)
